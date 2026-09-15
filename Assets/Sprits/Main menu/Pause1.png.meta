@@ -1,10 +1,22 @@
 fileFormatVersion: 2
-guid: e17b2092a8d33634e92a74a876377ab1
+guid: 93eeaafc3d9a54d4e90d77798eda75f1
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7658966834354692610
-    second: Dead (8)_0
+      213: 9028583508108199644
+    second: Pause1_0
+  - first:
+      213: 6156130401517666833
+    second: Pause1_1
+  - first:
+      213: -2671568500138783290
+    second: Pause1_2
+  - first:
+      213: -2385374659952684618
+    second: Pause1_3
+  - first:
+      213: -6144900312389846915
+    second: Pause1_4
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -51,7 +63,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 150
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -113,13 +125,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Dead (8)_0
+      name: Pause1_0
       rect:
         serializedVersion: 2
-        x: 136
-        y: 47
-        width: 385
-        height: 313
+        x: 0
+        y: 46
+        width: 1199
+        height: 1152
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +140,96 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 202a534c1cd1a4a60800000000000000
-      internalID: 7658966834354692610
+      spriteID: cd64db97dd8fb4d70800000000000000
+      internalID: 9028583508108199644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pause1_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1082
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 112817dcbf7fe6550800000000000000
+      internalID: 6156130401517666833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pause1_2
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 168
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cdca1c8a9eacead0800000000000000
+      internalID: -2671568500138783290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pause1_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 71
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b15d41926275eed0800000000000000
+      internalID: -2385374659952684618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pause1_4
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 49
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78f0d319bde8baa0800000000000000
+      internalID: -6144900312389846915
       vertices: []
       indices: 
       edges: []
@@ -148,7 +248,11 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Dead (8)_0: 7658966834354692610
+      Pause1_0: 9028583508108199644
+      Pause1_1: 6156130401517666833
+      Pause1_2: -2671568500138783290
+      Pause1_3: -2385374659952684618
+      Pause1_4: -6144900312389846915
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

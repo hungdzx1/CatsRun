@@ -131,6 +131,7 @@ GameObject:
   - component: {fileID: 10741100}
   - component: {fileID: 10741099}
   - component: {fileID: 10741098}
+  - component: {fileID: 10741101}
   m_Layer: 5
   m_Name: Play
   m_TagString: Untagged
@@ -251,6 +252,28 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 10741096}
   m_CullTransparentMesh: 1
+--- !u!95 &10741101
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 10741096}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: b9052d540610f3c45a86eb5e91cc7fde, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &274263679
 GameObject:
   m_ObjectHideFlags: 0
@@ -262,6 +285,7 @@ GameObject:
   - component: {fileID: 274263680}
   - component: {fileID: 274263682}
   - component: {fileID: 274263681}
+  - component: {fileID: 274263683}
   m_Layer: 5
   m_Name: Cats
   m_TagString: Untagged
@@ -326,6 +350,28 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 274263679}
   m_CullTransparentMesh: 1
+--- !u!95 &274263683
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 274263679}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 171f19f235a49b342a50dd2721afd964, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &304913526
 GameObject:
   m_ObjectHideFlags: 0

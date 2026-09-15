@@ -13,6 +13,8 @@ public class GameManager : MonoBehaviour
     [SerializeField] private TextMeshProUGUI scoreText;
     [SerializeField] private TextMeshProUGUI scoreTextGameOver;
     private float score = 0;
+    [SerializeField] private TextMeshProUGUI bestScoreText;
+    private int bestScore = 0;  
 
     [SerializeField] private GameObject[] Text;
     private bool isGameOver = false;
@@ -32,12 +34,14 @@ public class GameManager : MonoBehaviour
     void Start()
     {
         StartGame();
+        getBestScore();
     }
 
     // Update is called once per frame
     void Update()
     {
         EnterStartGame();
+        best_Score();
         if (IsGameStarted && !isGameOver)
         {
              UpdateScore();
@@ -53,18 +57,19 @@ public class GameManager : MonoBehaviour
     private void UpdateScore()
     {
         score += Time.deltaTime * 10;
-        scoreText.text = "Score: " + Mathf.FloorToInt(score).ToString();
+        scoreText.text =  Mathf.FloorToInt(score).ToString();
     }
 
     private void StartGame()
     {
         IsGameStarted = false;
         Time.timeScale = 0;
-        Text[0].SetActive(false);
-        Text[1].SetActive(true);
-        Text[2].SetActive(false);
-        Text[3].SetActive(false);
-        Text[4].SetActive(false);
+        Text[0].SetActive(true); //score
+        Text[1].SetActive(true); //press enter to start
+        Text[2].SetActive(false); //game over
+        Text[3].SetActive(true); //pause button
+        Text[4].SetActive(false); //pause menu
+        Text[5].SetActive(true); //best score
     }
 
     private void EnterStartGame()
@@ -78,6 +83,8 @@ public class GameManager : MonoBehaviour
             Text[2].SetActive(false);
             Text[3].SetActive(true);
             Text[4].SetActive(false);
+            Text[5].SetActive(true);
+
         }
     }
 
@@ -102,6 +109,7 @@ public class GameManager : MonoBehaviour
         Text[2].SetActive(true);
         Text[3].SetActive(false);
         Text[4].SetActive(false);
+        Text[5].SetActive(false);
 
         Time.timeScale = 0;
     }
@@ -115,6 +123,8 @@ public class GameManager : MonoBehaviour
         Text[2].SetActive(false);
         Text[3].SetActive(false);
         Text[4].SetActive(true);
+        Text[5].SetActive(false);
+
     }
 
     public void ResumeGame()
@@ -125,6 +135,8 @@ public class GameManager : MonoBehaviour
         Text[2].SetActive(false);
         Text[3].SetActive(true);
         Text[4].SetActive(false);
+        Text[5].SetActive(true);
+
     }
 
     public void RestartGame()
@@ -137,5 +149,25 @@ public class GameManager : MonoBehaviour
     {
         Time.timeScale = 1;
         SceneManager.LoadScene("Main Menu");
+    }
+
+    private void best_Score()
+    {
+        if(score > bestScore)
+        {
+            bestScore = Mathf.FloorToInt(score);
+            PlayerPrefs.SetInt("HighScore", bestScore);
+            PlayerPrefs.Save();
+            bestScoreText.text = bestScore.ToString();
+        }
+    }
+
+    private void getBestScore()
+    {
+        bestScore = PlayerPrefs.GetInt("HighScore", 0);
+        if (bestScoreText != null)
+        {
+            bestScoreText.text = bestScore.ToString();
+        }
     }
 }
