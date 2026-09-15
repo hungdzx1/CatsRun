@@ -7,6 +7,10 @@ public class Spawn : MonoBehaviour
     [SerializeField] private Transform groundPoint;
     private float timer = 2f;
     [SerializeField] private float timeSpawn = 2f;
+    [SerializeField] private float timeSpawnBySpeed = 0.0015f;
+    [SerializeField] private float minTimeSpawn = 0.75f;
+    
+
 
     
     void Start()
@@ -16,11 +20,21 @@ public class Spawn : MonoBehaviour
 
     void Update()
     {
+        UpdateTimeSpawn();
         timer += Time.deltaTime;
         if(timer >= timeSpawn)
         {
             renderObstacle();
             timer = 0f;
+        }
+    }
+
+    void UpdateTimeSpawn()
+    {
+        timeSpawn -= timeSpawnBySpeed * GameManager.instance.GetGameSpeed() * Time.deltaTime;
+        if(timeSpawn <= minTimeSpawn)
+        {
+            timeSpawn = minTimeSpawn;
         }
     }
     private void renderObstacle()

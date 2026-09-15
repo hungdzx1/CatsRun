@@ -28,6 +28,7 @@ public class Obstacle : MonoBehaviour
     {
         if (collider2D.CompareTag("Player"))
         {
+            Player.instance.Die();
             GameManager.instance.GameOver();
         }
     }

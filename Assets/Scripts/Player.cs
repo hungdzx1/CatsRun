@@ -2,7 +2,6 @@ using UnityEngine;
 
 public class Player : MonoBehaviour
 {
-
     [SerializeField] private float jumpForce = 15f;
     private Rigidbody2D rb;
     private bool isGrounded;
@@ -36,8 +35,12 @@ public class Player : MonoBehaviour
     void Update()
     {
         isGrounded = CheckIsGrounded();
-        Jump();
-        Slide();
+        
+        if(GameManager.instance.IsGameStarted)
+        {
+            Jump();
+            Slide();
+        }
     }
     
     private bool CheckIsGrounded()
@@ -80,12 +83,9 @@ public class Player : MonoBehaviour
         }
     }
 
-    // public void Die()
-    // {
-    //     float animationLength = anim.GetCurrentAnimatorStateInfo(0).length;
-    //     anim.SetTrigger("isDie");
-    //     new WaitForSeconds(animationLength + 1f);
-    //     GameManager.instance.RestartGame();
-    // }
+    public void Die()
+    {
+        anim.SetTrigger("isDie");
+    }
 
 }
