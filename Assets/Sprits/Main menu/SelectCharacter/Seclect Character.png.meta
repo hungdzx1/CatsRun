@@ -1,0 +1,360 @@
+fileFormatVersion: 2
+guid: 2b8f7763ae9611d48831bdc713c698e1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5582041901429196851
+    second: Seclect Character_0
+  - first:
+      213: 1176624169117345592
+    second: Seclect Character_1
+  - first:
+      213: -4252126272309126604
+    second: Seclect Character_2
+  - first:
+      213: 1607217511662400022
+    second: Seclect Character_3
+  - first:
+      213: 7479054869809281021
+    second: Seclect Character_4
+  - first:
+      213: -8779203474886881998
+    second: Seclect Character_5
+  - first:
+      213: 5642352639804077745
+    second: Seclect Character_6
+  - first:
+      213: -8955781355142720416
+    second: Seclect Character_7
+  - first:
+      213: 5599117552946247160
+    second: Seclect Character_8
+  - first:
+      213: -1010033334045684796
+    second: Seclect Character_9
+  - first:
+      213: -3655673475953907770
+    second: Seclect Character_10
+  - first:
+      213: 8389342154976331583
+    second: Seclect Character_11
+  - first:
+      213: 3524380625467725357
+    second: Seclect Character_12
+  - first:
+      213: 9215056200756073739
+    second: Seclect Character_13
+  - first:
+      213: -7371956380473384862
+    second: Seclect Character_14
+  - first:
+      213: 3717957387042703891
+    second: Seclect Character_15
+  - first:
+      213: -8102425982592107401
+    second: Seclect Character_16
+  - first:
+      213: 3032652900986751263
+    second: Seclect Character_17
+  - first:
+      213: -6444014388866604808
+    second: Seclect Character_18
+  - first:
+      213: -4154877806592206734
+    second: Seclect Character_19
+  - first:
+      213: -4416367562141245780
+    second: Seclect Character_20
+  - first:
+      213: -5027120019564083811
+    second: Seclect Character_21
+  - first:
+      213: -7542214566584790187
+    second: Seclect Character_22
+  - first:
+      213: 9197453761303152801
+    second: Seclect Character_23
+  - first:
+      213: 3853201932940453169
+    second: Seclect Character_24
+  - first:
+      213: 3752339794348809950
+    second: Seclect Character_25
+  - first:
+      213: -7994956975978902731
+    second: Seclect Character_26
+  - first:
+      213: -4652115119644919380
+    second: Seclect Character_27
+  - first:
+      213: -2295875073632362363
+    second: Seclect Character_28
+  - first:
+      213: -902173558543068898
+    second: Seclect Character_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Seclect Character_23
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 570
+        width: 662
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a80e88377be3af70800000000000000
+      internalID: 9197453761303152801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seclect Character_24
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 595
+        width: 655
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135a3cc2eb2597530800000000000000
+      internalID: 3853201932940453169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seclect Character_25
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 191
+        width: 196
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede19b6892df21430800000000000000
+      internalID: 3752339794348809950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seclect Character_26
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 131
+        width: 431
+        height: 399
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b0f3c4df43c0190800000000000000
+      internalID: -7994956975978902731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seclect Character_28
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 185
+        width: 194
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580287bd8c96320e0800000000000000
+      internalID: -2295875073632362363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 349a25d3f18727a418028ccc130ca7ab
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Seclect Character_0: -5582041901429196851
+      Seclect Character_1: 1176624169117345592
+      Seclect Character_10: -3655673475953907770
+      Seclect Character_11: 8389342154976331583
+      Seclect Character_12: 3524380625467725357
+      Seclect Character_13: 9215056200756073739
+      Seclect Character_14: -7371956380473384862
+      Seclect Character_15: 3717957387042703891
+      Seclect Character_16: -8102425982592107401
+      Seclect Character_17: 3032652900986751263
+      Seclect Character_18: -6444014388866604808
+      Seclect Character_19: -4154877806592206734
+      Seclect Character_2: -4252126272309126604
+      Seclect Character_20: -4416367562141245780
+      Seclect Character_21: -5027120019564083811
+      Seclect Character_22: -7542214566584790187
+      Seclect Character_23: 9197453761303152801
+      Seclect Character_24: 3853201932940453169
+      Seclect Character_25: 3752339794348809950
+      Seclect Character_26: -7994956975978902731
+      Seclect Character_27: -4652115119644919380
+      Seclect Character_28: -2295875073632362363
+      Seclect Character_29: -902173558543068898
+      Seclect Character_3: 1607217511662400022
+      Seclect Character_4: 7479054869809281021
+      Seclect Character_5: -8779203474886881998
+      Seclect Character_6: 5642352639804077745
+      Seclect Character_7: -8955781355142720416
+      Seclect Character_8: 5599117552946247160
+      Seclect Character_9: -1010033334045684796
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -3,6 +3,9 @@ using UnityEngine;
 public class Player : MonoBehaviour
 {
     [SerializeField] private float jumpForce = 15f;
+    [SerializeField] private float fastFallSpeed = 20f;
+    private bool isFastFalling = false;
+
     private Rigidbody2D rb;
     private bool isGrounded;
     [SerializeField] private Transform groundCheck;
@@ -15,6 +18,8 @@ public class Player : MonoBehaviour
     [SerializeField] private CapsuleCollider2D slideCollider;
 
     public static Player instance;
+    private bool isSliding;
+    private bool isDead = false;
 
     void Awake()
     {
@@ -40,6 +45,7 @@ public class Player : MonoBehaviour
         {
             Jump();
             Slide();
+            RunningSFX();
         }
     }
     
@@ -62,6 +68,7 @@ public class Player : MonoBehaviour
         {
             rb.linearVelocity = Vector2.up * jumpForce;
             anim.SetBool("isJump", true);
+            AudioManager.instance.PlayJumpSFX();
         }
         anim.SetBool("isJump", !isGrounded);
     }
@@ -73,6 +80,27 @@ public class Player : MonoBehaviour
             runCollider.enabled = false;
             slideCollider.enabled = true;
             anim.SetBool("isSlide", true);
+            isSliding = true;
+            AudioManager.instance.PlaySlideSFX();
+        }
+
+        else if (Input.GetKey(KeyCode.LeftControl) && !isGrounded)
+        {
+            runCollider.enabled = false;
+            slideCollider.enabled = true;
+            isFastFalling = true;
+            rb.linearVelocity = new Vector2(rb.linearVelocity.x, -fastFallSpeed);
+
+        }
+
+        if(isFastFalling && isGrounded)
+        {
+            runCollider.enabled = false;
+            slideCollider.enabled = true;
+            anim.SetBool("isSlide", true);
+            isFastFalling = false;
+            isSliding = true;
+            AudioManager.instance.PlaySlideSFX();
         }
 
         else if (Input.GetKeyUp(KeyCode.LeftControl))
@@ -80,12 +108,39 @@ public class Player : MonoBehaviour
             runCollider.enabled = true;
             slideCollider.enabled = false;
             anim.SetBool("isSlide", false);
+            isFastFalling = false;
+            isSliding = false;
+            AudioManager.instance.StopSlideSFX();
         }
     }
 
     public void Die()
     {
+        if(isDead) return;
+        isDead = true;
+
+        if (runCollider != null) runCollider.enabled = false;
+        if (slideCollider != null) slideCollider.enabled = true;
+        
         anim.SetTrigger("isDie");
+        AudioManager.instance.PlayFallSFX();
+    }
+
+    private void RunningSFX()
+    {
+        // Nhân vật phải chạm đất, game đang chạy, không chết và KHÔNG trong trạng thái trượt/lướt
+        bool isRunning = isGrounded && !isFastFalling 
+        && GameManager.instance.IsGameStarted && !GameManager.instance.isGameOver 
+        && !isSliding && !GameManager.instance.isStopSfxRun;
+        
+        if (isRunning)
+        {
+            AudioManager.instance.PlayRunSFX();
+        }
+        else
+        {
+            AudioManager.instance.StopRunSFX();
+        }
     }
 
 }

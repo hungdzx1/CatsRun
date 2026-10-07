@@ -7,6 +7,7 @@ public class GameManager : MonoBehaviour
 {
     public static GameManager instance;
     private float gameSpeed = 5f;
+    private float maxGameSpeed = 20f;
 
     [SerializeField] private float speedUp = 0.15f;
 
@@ -17,9 +18,10 @@ public class GameManager : MonoBehaviour
     private int bestScore = 0;  
 
     [SerializeField] private GameObject[] Text;
-    private bool isGameOver = false;
+    public bool isGameOver = false;
     public bool IsGameStarted;
-    [SerializeField] private Animator playerAnimator;
+    public bool isStopSfxRun;
+    private Animator playerAnimator;
 
     
     void Awake()
@@ -51,7 +53,14 @@ public class GameManager : MonoBehaviour
 
     private void UpdateGameSpeed()
     {
-        gameSpeed += speedUp * Time.deltaTime;
+        if (gameSpeed < maxGameSpeed)
+        {
+            gameSpeed += speedUp * Time.deltaTime;
+        }
+        else
+        {
+            gameSpeed = maxGameSpeed;
+        }
     }
 
     private void UpdateScore()
@@ -70,6 +79,7 @@ public class GameManager : MonoBehaviour
         Text[3].SetActive(true); //pause button
         Text[4].SetActive(false); //pause menu
         Text[5].SetActive(true); //best score
+        Text[6].SetActive(false); //settings menu
     }
 
     private void EnterStartGame()
@@ -99,6 +109,11 @@ public class GameManager : MonoBehaviour
     {
         gameSpeed = 0;
 
+        if (playerAnimator == null && Player.instance != null)
+        {
+            playerAnimator = Player.instance.GetComponent<Animator>();
+        }
+
         //đo thời gian chạy của anim
         float dieLength = playerAnimator.GetCurrentAnimatorStateInfo(0).length;
         yield return new WaitForSeconds(dieLength + 0.4f);
@@ -110,6 +125,11 @@ public class GameManager : MonoBehaviour
         Text[3].SetActive(false);
         Text[4].SetActive(false);
         Text[5].SetActive(false);
+        AudioManager.instance.StopBGM();
+        AudioManager.instance.StopRunSFX();
+        AudioManager.instance.StopSlideSFX();
+        AudioManager.instance.PlayGameOverSFX();
+        isStopSfxRun = true;
 
         Time.timeScale = 0;
     }
@@ -124,6 +144,9 @@ public class GameManager : MonoBehaviour
         Text[3].SetActive(false);
         Text[4].SetActive(true);
         Text[5].SetActive(false);
+        AudioManager.instance.pauseBGM();
+        isStopSfxRun = true;
+        AudioManager.instance.StopRunSFX();
 
     }
 
@@ -136,19 +159,32 @@ public class GameManager : MonoBehaviour
         Text[3].SetActive(true);
         Text[4].SetActive(false);
         Text[5].SetActive(true);
-
+        AudioManager.instance.resumBGM();
+        isStopSfxRun = false;
+        AudioManager.instance.PlayRunSFX();
     }
 
     public void RestartGame()
     {
         Time.timeScale = 1;
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+        AudioManager.instance.PlayBGM();
     }
 
     public void BackToMenu()
     {
         Time.timeScale = 1;
         SceneManager.LoadScene("Main Menu");
+    }
+
+    public void OpenSettingsMenu()
+    {
+        Text[6].SetActive(true);
+    }
+
+    public void CloseSettingsMenu()
+    {
+        Text[6].SetActive(false);
     }
 
     private void best_Score()
@@ -170,4 +206,6 @@ public class GameManager : MonoBehaviour
             bestScoreText.text = bestScore.ToString();
         }
     }
+
+    
 }
