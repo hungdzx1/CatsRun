@@ -1,0 +1,2470 @@
+fileFormatVersion: 2
+guid: 0b0a450f2f7ac104ebb0b69ff8a5bc40
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3904394294162941838
+    second: socre_0
+  - first:
+      213: -7477074132083800384
+    second: socre_1
+  - first:
+      213: -3648609500017089430
+    second: socre_2
+  - first:
+      213: -8802391419524009508
+    second: socre_3
+  - first:
+      213: -238805572674845347
+    second: socre_4
+  - first:
+      213: 7018632519214131419
+    second: socre_5
+  - first:
+      213: -2852606041927321528
+    second: socre_6
+  - first:
+      213: 6483213080330972722
+    second: socre_7
+  - first:
+      213: 2277693936502397471
+    second: socre_8
+  - first:
+      213: -5905341134734815166
+    second: socre_9
+  - first:
+      213: -2730368945107621900
+    second: socre_10
+  - first:
+      213: -5645412475790178039
+    second: socre_11
+  - first:
+      213: 1411471042468101420
+    second: socre_12
+  - first:
+      213: -613631596668080465
+    second: socre_13
+  - first:
+      213: -2181822838881749262
+    second: socre_14
+  - first:
+      213: 2748126586091865733
+    second: socre_15
+  - first:
+      213: -4804136828335737347
+    second: socre_16
+  - first:
+      213: -6859314489504304986
+    second: socre_17
+  - first:
+      213: -2441841932594428934
+    second: socre_18
+  - first:
+      213: -6566315689931061269
+    second: socre_19
+  - first:
+      213: 7088174340384120074
+    second: socre_20
+  - first:
+      213: 6570027049189565106
+    second: socre_21
+  - first:
+      213: -4202237393279447195
+    second: socre_22
+  - first:
+      213: -5694944174825122804
+    second: socre_23
+  - first:
+      213: 2768253199967829063
+    second: socre_24
+  - first:
+      213: 916145808220710455
+    second: socre_25
+  - first:
+      213: -2018991453690784641
+    second: socre_26
+  - first:
+      213: 3393410752903124992
+    second: socre_27
+  - first:
+      213: 5858031446357477561
+    second: socre_28
+  - first:
+      213: -3059088502726285390
+    second: socre_29
+  - first:
+      213: -5634628900145460417
+    second: socre_30
+  - first:
+      213: 957471181218698278
+    second: socre_31
+  - first:
+      213: -1021334822326871545
+    second: socre_32
+  - first:
+      213: -4530141822145908556
+    second: socre_33
+  - first:
+      213: -2245849301594345249
+    second: socre_34
+  - first:
+      213: -155722331433893835
+    second: socre_35
+  - first:
+      213: 3763423856557340447
+    second: socre_36
+  - first:
+      213: -6941236542713423973
+    second: socre_37
+  - first:
+      213: 2039657085687255532
+    second: socre_38
+  - first:
+      213: -1695782389355550831
+    second: socre_39
+  - first:
+      213: 1451618514587259952
+    second: socre_40
+  - first:
+      213: -5032326309191455790
+    second: socre_41
+  - first:
+      213: 3357857102000725029
+    second: socre_42
+  - first:
+      213: 349496718267806444
+    second: socre_43
+  - first:
+      213: -4974073152587251249
+    second: socre_44
+  - first:
+      213: -2063220139474999771
+    second: socre_45
+  - first:
+      213: 8041177885205550285
+    second: socre_46
+  - first:
+      213: -5598589937713544324
+    second: socre_47
+  - first:
+      213: -6263410643559576381
+    second: socre_48
+  - first:
+      213: -4479956130603773178
+    second: socre_49
+  - first:
+      213: -7626177334845270702
+    second: socre_50
+  - first:
+      213: 782023368737843488
+    second: socre_51
+  - first:
+      213: 1851288577693456122
+    second: socre_52
+  - first:
+      213: 8069706079817524998
+    second: socre_53
+  - first:
+      213: -6664206868444052082
+    second: socre_54
+  - first:
+      213: -2193966838581669635
+    second: socre_55
+  - first:
+      213: 4389559343463278954
+    second: socre_56
+  - first:
+      213: 8644292016571868706
+    second: socre_57
+  - first:
+      213: 4318950689743769097
+    second: socre_58
+  - first:
+      213: 3638686828735493979
+    second: socre_59
+  - first:
+      213: -3840579799976879236
+    second: socre_60
+  - first:
+      213: -5424658999388854207
+    second: socre_61
+  - first:
+      213: -200102459326763273
+    second: socre_62
+  - first:
+      213: 8071637369281302646
+    second: socre_63
+  - first:
+      213: -4292429589089481947
+    second: socre_64
+  - first:
+      213: -6064425838776601327
+    second: socre_65
+  - first:
+      213: -3338587121019063263
+    second: socre_66
+  - first:
+      213: -964794129425675290
+    second: socre_67
+  - first:
+      213: -2884513234227756188
+    second: socre_68
+  - first:
+      213: 78693947209730594
+    second: socre_69
+  - first:
+      213: 5131968733362499084
+    second: socre_70
+  - first:
+      213: 5063052576177528132
+    second: socre_71
+  - first:
+      213: 6717397718908157322
+    second: socre_72
+  - first:
+      213: 2418924504737446049
+    second: socre_73
+  - first:
+      213: 8829524497453425439
+    second: socre_74
+  - first:
+      213: 1504811908914117924
+    second: socre_75
+  - first:
+      213: 7803370314046805129
+    second: socre_76
+  - first:
+      213: -3991817641753412878
+    second: socre_77
+  - first:
+      213: -2322485109980843488
+    second: socre_78
+  - first:
+      213: -5319276539725937056
+    second: socre_79
+  - first:
+      213: -2353600775923984998
+    second: socre_80
+  - first:
+      213: 5481474770296917757
+    second: socre_81
+  - first:
+      213: 4398466729802328053
+    second: socre_82
+  - first:
+      213: -880895270918201284
+    second: socre_83
+  - first:
+      213: -4215260389545271247
+    second: socre_84
+  - first:
+      213: -4920170736465373628
+    second: socre_85
+  - first:
+      213: 2391462826018439663
+    second: socre_86
+  - first:
+      213: 5353303856011484399
+    second: socre_87
+  - first:
+      213: 4631043162939550371
+    second: socre_88
+  - first:
+      213: 6275989305669204514
+    second: socre_89
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: socre_0
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1009
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2781b59631ec0d9c0800000000000000
+      internalID: -3904394294162941838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_1
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 994
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c602ed21b81c3890800000000000000
+      internalID: -7477074132083800384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_2
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 991
+        width: 97
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64ad5badf88d5dc0800000000000000
+      internalID: -3648609500017089430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 14
+        width: 1521
+        height: 994
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1335914af97d580800000000000000
+      internalID: -8802391419524009508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_4
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 945
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55055ec8979facf0800000000000000
+      internalID: -238805572674845347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_5
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 981
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd863c40711376160800000000000000
+      internalID: 7018632519214131419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_6
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 951
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848f9ca2be18968d0800000000000000
+      internalID: -2852606041927321528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_7
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 913
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e2b4072fff8f950800000000000000
+      internalID: 6483213080330972722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_8
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 929
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a5948419efb9f10800000000000000
+      internalID: 2277693936502397471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_9
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 929
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24011aa96830c0ea0800000000000000
+      internalID: -5905341134734815166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_10
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 911
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f72a1919e7cb1ad0800000000000000
+      internalID: -2730368945107621900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_11
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 911
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909c7f1934777a1b0800000000000000
+      internalID: -5645412475790178039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_12
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 895
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2dbf015f6d869310800000000000000
+      internalID: 1411471042468101420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_13
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 894
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faea4a16051fb77f0800000000000000
+      internalID: -613631596668080465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_14
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 897
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f67e9510bb98b1e0800000000000000
+      internalID: -2181822838881749262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_15
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 863
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58600d1e19e432620800000000000000
+      internalID: 2748126586091865733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_16
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 843
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df53dae0207445db0800000000000000
+      internalID: -4804136828335737347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_17
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 797
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0f76260d1dec0a0800000000000000
+      internalID: -6859314489504304986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_18
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 721
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af34e0223b5dc1ed0800000000000000
+      internalID: -2441841932594428934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_19
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 651
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be7c59a7ba2cfd4a0800000000000000
+      internalID: -6566315689931061269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_20
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 653
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d52a002014e5260800000000000000
+      internalID: 7088174340384120074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_21
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 126
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b2e6afaacc6d2b50800000000000000
+      internalID: 6570027049189565106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_22
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 111
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f07bfea57aea5c0800000000000000
+      internalID: -4202237393279447195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_23
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 133
+        width: 59
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c045ed3327e77f0b0800000000000000
+      internalID: -5694944174825122804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_24
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 127
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74cbb685e9fca6620800000000000000
+      internalID: 2768253199967829063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_25
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 151
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736657532cdc6bc00800000000000000
+      internalID: 916145808220710455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_26
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 155
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74163e48f91bf3e0800000000000000
+      internalID: -2018991453690784641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_27
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 131
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00818c7c911d71f20800000000000000
+      internalID: 3393410752903124992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_28
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 113
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b884333098eb4150800000000000000
+      internalID: 5858031446357477561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_29
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 143
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7a48ae63feb85d0800000000000000
+      internalID: -3059088502726285390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_30
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 133
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b0ead6ed6cdc1b0800000000000000
+      internalID: -5634628900145460417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_31
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 123
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 624d63767fe994d00800000000000000
+      internalID: 957471181218698278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_32
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 143
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a587ee36d73d1f0800000000000000
+      internalID: -1021334822326871545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_33
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 133
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b03ad4b304b121c0800000000000000
+      internalID: -4530141822145908556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_34
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 93
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd0f86f85f325d0e0800000000000000
+      internalID: -2245849301594345249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_35
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 111
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53089475d53c6ddf0800000000000000
+      internalID: -155722331433893835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_36
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 109
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17b45dde0e5a3430800000000000000
+      internalID: 3763423856557340447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_37
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 133
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b971b910426cbaf90800000000000000
+      internalID: -6941236542713423973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_38
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 127
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce15ff710515e4c10800000000000000
+      internalID: 2039657085687255532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_39
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 131
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197691ac6ee5778e0800000000000000
+      internalID: -1695782389355550831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_40
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 129
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0349a57195f252410800000000000000
+      internalID: 1451618514587259952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_41
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 128
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db6aca52e5992ab0800000000000000
+      internalID: -5032326309191455790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_42
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 127
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c964b5e31899e20800000000000000
+      internalID: 3357857102000725029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_43
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 119
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2748ed969a9d400800000000000000
+      internalID: 349496718267806444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_44
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 110
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc1ca3d42da88fab0800000000000000
+      internalID: -4974073152587251249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_45
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 133
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 526292de638fd53e0800000000000000
+      internalID: -2063220139474999771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_46
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 109
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc4576fbea0089f60800000000000000
+      internalID: 8041177885205550285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_47
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 129
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73028f3d10dd42b0800000000000000
+      internalID: -5598589937713544324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_48
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 95
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc0b346435e319a0800000000000000
+      internalID: -6263410643559576381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_49
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 127
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603570292aff3d1c0800000000000000
+      internalID: -4479956130603773178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 93
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25599628e106a2690800000000000000
+      internalID: -7626177334845270702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_51
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 103
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0296cab4c1e4ada00800000000000000
+      internalID: 782023368737843488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_52
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 85
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af61822272911b910800000000000000
+      internalID: 1851288577693456122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_53
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 97
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6076559acea5dff60800000000000000
+      internalID: 8069706079817524998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_54
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 100
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e858ca0692bf383a0800000000000000
+      internalID: -6664206868444052082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_55
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 93
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df05a51d8c67d81e0800000000000000
+      internalID: -2193966838581669635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_56
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 107
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6920ab47f8daec30800000000000000
+      internalID: 4389559343463278954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_57
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 109
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226e2862ac1b6f770800000000000000
+      internalID: 8644292016571868706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_58
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 101
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e0b9005ceffeb30800000000000000
+      internalID: 4318950689743769097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_59
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 97
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57fba364663f7230800000000000000
+      internalID: 3638686828735493979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_60
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 102
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b56da250583bac0800000000000000
+      internalID: -3840579799976879236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_61
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 107
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1482dc1916db7b4b0800000000000000
+      internalID: -5424658999388854207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_62
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 103
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe65299fd7193df0800000000000000
+      internalID: -200102459326763273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_63
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 87
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 670d7c70c67340070800000000000000
+      internalID: 8071637369281302646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_64
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 111
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b02fee70a3e64c0800000000000000
+      internalID: -4292429589089481947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_65
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 97
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 115350194d4d6dba0800000000000000
+      internalID: -6064425838776601327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_66
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 85
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124f6f7b3b4faa1d0800000000000000
+      internalID: -3338587121019063263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_67
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 91
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb433ad9dc5c92f0800000000000000
+      internalID: -964794129425675290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_68
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 97
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46301fb0f7628f7d0800000000000000
+      internalID: -2884513234227756188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_69
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 79
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ac8616ab3971100800000000000000
+      internalID: 78693947209730594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_70
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 87
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0eab766f5a683740800000000000000
+      internalID: 5131968733362499084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_71
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 81
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d103a2e73934640800000000000000
+      internalID: 5063052576177528132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_72
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 79
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d3a8292adf83d50800000000000000
+      internalID: 6717397718908157322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_73
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 95
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8fc53650fb19120800000000000000
+      internalID: 2418924504737446049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_74
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 95
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f132256efb5c88a70800000000000000
+      internalID: 8829524497453425439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_75
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 83
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d7a94557a22e410800000000000000
+      internalID: 1504811908914117924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_76
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 81
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9849693e4f32b4c60800000000000000
+      internalID: 7803370314046805129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_77
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 85
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa762f11073a98c0800000000000000
+      internalID: -3991817641753412878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_78
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 71
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0223577f810e4cfd0800000000000000
+      internalID: -2322485109980843488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_79
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 69
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066019b7b222e26b0800000000000000
+      internalID: -5319276539725937056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_80
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 63
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9597ff6094565fd0800000000000000
+      internalID: -2353600775923984998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_81
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 69
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe40d0f24c121c40800000000000000
+      internalID: 5481474770296917757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_82
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 65
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f7ed3acf2e7a0d30800000000000000
+      internalID: 4398466729802328053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_83
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 65
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3069941b6e66c3f0800000000000000
+      internalID: -880895270918201284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_84
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 51
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130216552036085c0800000000000000
+      internalID: -4215260389545271247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_85
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 65
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44695ba88ca08bbb0800000000000000
+      internalID: -4920170736465373628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_86
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 49
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe1816e05ce203120800000000000000
+      internalID: 2391462826018439663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_87
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 59
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec1b487e71ca4a40800000000000000
+      internalID: 5353303856011484399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_88
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 55
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa638a6835c44040800000000000000
+      internalID: 4631043162939550371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: socre_89
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 34
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a309a950bc81750800000000000000
+      internalID: 6275989305669204514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      socre_0: -3904394294162941838
+      socre_1: -7477074132083800384
+      socre_10: -2730368945107621900
+      socre_11: -5645412475790178039
+      socre_12: 1411471042468101420
+      socre_13: -613631596668080465
+      socre_14: -2181822838881749262
+      socre_15: 2748126586091865733
+      socre_16: -4804136828335737347
+      socre_17: -6859314489504304986
+      socre_18: -2441841932594428934
+      socre_19: -6566315689931061269
+      socre_2: -3648609500017089430
+      socre_20: 7088174340384120074
+      socre_21: 6570027049189565106
+      socre_22: -4202237393279447195
+      socre_23: -5694944174825122804
+      socre_24: 2768253199967829063
+      socre_25: 916145808220710455
+      socre_26: -2018991453690784641
+      socre_27: 3393410752903124992
+      socre_28: 5858031446357477561
+      socre_29: -3059088502726285390
+      socre_3: -8802391419524009508
+      socre_30: -5634628900145460417
+      socre_31: 957471181218698278
+      socre_32: -1021334822326871545
+      socre_33: -4530141822145908556
+      socre_34: -2245849301594345249
+      socre_35: -155722331433893835
+      socre_36: 3763423856557340447
+      socre_37: -6941236542713423973
+      socre_38: 2039657085687255532
+      socre_39: -1695782389355550831
+      socre_4: -238805572674845347
+      socre_40: 1451618514587259952
+      socre_41: -5032326309191455790
+      socre_42: 3357857102000725029
+      socre_43: 349496718267806444
+      socre_44: -4974073152587251249
+      socre_45: -2063220139474999771
+      socre_46: 8041177885205550285
+      socre_47: -5598589937713544324
+      socre_48: -6263410643559576381
+      socre_49: -4479956130603773178
+      socre_5: 7018632519214131419
+      socre_50: -7626177334845270702
+      socre_51: 782023368737843488
+      socre_52: 1851288577693456122
+      socre_53: 8069706079817524998
+      socre_54: -6664206868444052082
+      socre_55: -2193966838581669635
+      socre_56: 4389559343463278954
+      socre_57: 8644292016571868706
+      socre_58: 4318950689743769097
+      socre_59: 3638686828735493979
+      socre_6: -2852606041927321528
+      socre_60: -3840579799976879236
+      socre_61: -5424658999388854207
+      socre_62: -200102459326763273
+      socre_63: 8071637369281302646
+      socre_64: -4292429589089481947
+      socre_65: -6064425838776601327
+      socre_66: -3338587121019063263
+      socre_67: -964794129425675290
+      socre_68: -2884513234227756188
+      socre_69: 78693947209730594
+      socre_7: 6483213080330972722
+      socre_70: 5131968733362499084
+      socre_71: 5063052576177528132
+      socre_72: 6717397718908157322
+      socre_73: 2418924504737446049
+      socre_74: 8829524497453425439
+      socre_75: 1504811908914117924
+      socre_76: 7803370314046805129
+      socre_77: -3991817641753412878
+      socre_78: -2322485109980843488
+      socre_79: -5319276539725937056
+      socre_8: 2277693936502397471
+      socre_80: -2353600775923984998
+      socre_81: 5481474770296917757
+      socre_82: 4398466729802328053
+      socre_83: -880895270918201284
+      socre_84: -4215260389545271247
+      socre_85: -4920170736465373628
+      socre_86: 2391462826018439663
+      socre_87: 5353303856011484399
+      socre_88: 4631043162939550371
+      socre_89: 6275989305669204514
+      socre_9: -5905341134734815166
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

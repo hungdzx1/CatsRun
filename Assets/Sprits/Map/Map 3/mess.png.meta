@@ -1,0 +1,5564 @@
+fileFormatVersion: 2
+guid: 7b4c057eab436c54480de1e1c8856614
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4350821923012535196
+    second: mess_0
+  - first:
+      213: -6380692782630513199
+    second: mess_1
+  - first:
+      213: -2592918425289218218
+    second: mess_2
+  - first:
+      213: 4887215491986275536
+    second: mess_3
+  - first:
+      213: -3531225597216739755
+    second: mess_4
+  - first:
+      213: -7935753757898442215
+    second: mess_5
+  - first:
+      213: -8148599309646508394
+    second: mess_6
+  - first:
+      213: 8631718621881259701
+    second: mess_7
+  - first:
+      213: -7808721622802219519
+    second: mess_8
+  - first:
+      213: -6964314839711478790
+    second: mess_9
+  - first:
+      213: 1456465068397692345
+    second: mess_10
+  - first:
+      213: 665047578268195251
+    second: mess_11
+  - first:
+      213: 1139579295695721915
+    second: mess_12
+  - first:
+      213: -431848095229699350
+    second: mess_13
+  - first:
+      213: 8994549627750802157
+    second: mess_14
+  - first:
+      213: 2963929525590928345
+    second: mess_15
+  - first:
+      213: -7327878526210213542
+    second: mess_16
+  - first:
+      213: -6560669512676812839
+    second: mess_17
+  - first:
+      213: 7353735864454844709
+    second: mess_18
+  - first:
+      213: 8795777608580431671
+    second: mess_19
+  - first:
+      213: -717543643611305720
+    second: mess_20
+  - first:
+      213: -4431843424870959753
+    second: mess_21
+  - first:
+      213: -4663240971454434223
+    second: mess_22
+  - first:
+      213: -5788932445402688859
+    second: mess_23
+  - first:
+      213: -5741069640092695484
+    second: mess_24
+  - first:
+      213: 6246458780717287802
+    second: mess_25
+  - first:
+      213: -1327206832838173112
+    second: mess_26
+  - first:
+      213: -3525975559544087555
+    second: mess_27
+  - first:
+      213: 4966473957008281188
+    second: mess_28
+  - first:
+      213: 6001461729654288226
+    second: mess_29
+  - first:
+      213: 1869020831729294149
+    second: mess_30
+  - first:
+      213: 8329350140153087421
+    second: mess_31
+  - first:
+      213: -6491856246026316061
+    second: mess_32
+  - first:
+      213: -3719762052428318936
+    second: mess_33
+  - first:
+      213: 8189384028454040760
+    second: mess_34
+  - first:
+      213: -4267930191198710375
+    second: mess_35
+  - first:
+      213: -596671553213503551
+    second: mess_36
+  - first:
+      213: 5644821909618542509
+    second: mess_37
+  - first:
+      213: 8833086691671787216
+    second: mess_38
+  - first:
+      213: -3357062759031378521
+    second: mess_39
+  - first:
+      213: 6341274927802524998
+    second: mess_40
+  - first:
+      213: 5610232033336165009
+    second: mess_41
+  - first:
+      213: -6882597445945289266
+    second: mess_42
+  - first:
+      213: -3776166458481327066
+    second: mess_43
+  - first:
+      213: 4624605025979649202
+    second: mess_44
+  - first:
+      213: 6348846949314291024
+    second: mess_45
+  - first:
+      213: 807510834278169056
+    second: mess_46
+  - first:
+      213: 941132145291825836
+    second: mess_47
+  - first:
+      213: -2197977295913892137
+    second: mess_48
+  - first:
+      213: 8569181562798308313
+    second: mess_49
+  - first:
+      213: 2231773378432128788
+    second: mess_50
+  - first:
+      213: 3464083624872251786
+    second: mess_51
+  - first:
+      213: 3171807861020313956
+    second: mess_52
+  - first:
+      213: 8756559924733163593
+    second: mess_53
+  - first:
+      213: -5719161324563719278
+    second: mess_54
+  - first:
+      213: 585555724015857733
+    second: mess_55
+  - first:
+      213: 4932905427656085750
+    second: mess_56
+  - first:
+      213: -1610735202219610412
+    second: mess_57
+  - first:
+      213: -5803324917170213214
+    second: mess_58
+  - first:
+      213: -5513152762992793800
+    second: mess_59
+  - first:
+      213: 636782537834788481
+    second: mess_60
+  - first:
+      213: 1010808488127791383
+    second: mess_61
+  - first:
+      213: -2694168339579375364
+    second: mess_62
+  - first:
+      213: -525556484460333698
+    second: mess_63
+  - first:
+      213: -580402380065914734
+    second: mess_64
+  - first:
+      213: 2215767894016636233
+    second: mess_65
+  - first:
+      213: -4652075284081980877
+    second: mess_66
+  - first:
+      213: 1588959635881784577
+    second: mess_67
+  - first:
+      213: 6064224594570344197
+    second: mess_68
+  - first:
+      213: 3448046893254933643
+    second: mess_69
+  - first:
+      213: 7237412079084879640
+    second: mess_70
+  - first:
+      213: -5851928095611313584
+    second: mess_71
+  - first:
+      213: -5676873991240867495
+    second: mess_72
+  - first:
+      213: -4744782581287621876
+    second: mess_73
+  - first:
+      213: -2615275227733169896
+    second: mess_74
+  - first:
+      213: 3905251069338650553
+    second: mess_75
+  - first:
+      213: 6856790962618260874
+    second: mess_76
+  - first:
+      213: -2355787984933120815
+    second: mess_77
+  - first:
+      213: -6965023730338020800
+    second: mess_78
+  - first:
+      213: -2826756819045567285
+    second: mess_79
+  - first:
+      213: -4039082714364373890
+    second: mess_80
+  - first:
+      213: -3378228747335603360
+    second: mess_81
+  - first:
+      213: -6535289096269102082
+    second: mess_82
+  - first:
+      213: -810727929218189572
+    second: mess_83
+  - first:
+      213: 1614040477214364875
+    second: mess_84
+  - first:
+      213: 8192202012561273798
+    second: mess_85
+  - first:
+      213: -6526521938933907239
+    second: mess_86
+  - first:
+      213: -6984753083743451120
+    second: mess_87
+  - first:
+      213: -7757215850415258999
+    second: mess_88
+  - first:
+      213: 8658278861299960176
+    second: mess_89
+  - first:
+      213: 9216295303110733910
+    second: mess_90
+  - first:
+      213: 5228881713680246468
+    second: mess_91
+  - first:
+      213: 299940139326401670
+    second: mess_92
+  - first:
+      213: -7886456333125860311
+    second: mess_93
+  - first:
+      213: -5736365940573080713
+    second: mess_94
+  - first:
+      213: -8674955586860189535
+    second: mess_95
+  - first:
+      213: -3814334369242608625
+    second: mess_96
+  - first:
+      213: 6820609616178295680
+    second: mess_97
+  - first:
+      213: -3184915391069927529
+    second: mess_98
+  - first:
+      213: 2644998516090120228
+    second: mess_99
+  - first:
+      213: -112543733983222599
+    second: mess_100
+  - first:
+      213: -7058683894200032083
+    second: mess_101
+  - first:
+      213: -7166437019977098688
+    second: mess_102
+  - first:
+      213: -1235854377572945435
+    second: mess_103
+  - first:
+      213: -3797072207937997605
+    second: mess_104
+  - first:
+      213: 2969875993305834203
+    second: mess_105
+  - first:
+      213: -6895579061526356436
+    second: mess_106
+  - first:
+      213: 7356785259809169397
+    second: mess_107
+  - first:
+      213: 6674213013431290700
+    second: mess_108
+  - first:
+      213: -5767830233054144119
+    second: mess_109
+  - first:
+      213: 1655567802191149306
+    second: mess_110
+  - first:
+      213: -4723605012744110763
+    second: mess_111
+  - first:
+      213: 1973108142431179834
+    second: mess_112
+  - first:
+      213: -4375430734114496401
+    second: mess_113
+  - first:
+      213: -4046924768523915321
+    second: mess_114
+  - first:
+      213: 3311983070746454891
+    second: mess_115
+  - first:
+      213: -4717791501318441094
+    second: mess_116
+  - first:
+      213: 2935517722549754093
+    second: mess_117
+  - first:
+      213: 5390054267229026769
+    second: mess_118
+  - first:
+      213: -6824905446047341688
+    second: mess_119
+  - first:
+      213: 3020130242677343249
+    second: mess_120
+  - first:
+      213: 7480374426547474651
+    second: mess_121
+  - first:
+      213: -6699100398136810288
+    second: mess_122
+  - first:
+      213: -2713529296260063236
+    second: mess_123
+  - first:
+      213: 7508080484290674779
+    second: mess_124
+  - first:
+      213: 7490212471435299080
+    second: mess_125
+  - first:
+      213: -2162550966237195016
+    second: mess_126
+  - first:
+      213: -1620456865836722829
+    second: mess_127
+  - first:
+      213: 9079902403732032245
+    second: mess_128
+  - first:
+      213: 3009961317589670276
+    second: mess_129
+  - first:
+      213: -3234570260235679172
+    second: mess_130
+  - first:
+      213: 2649341418045674342
+    second: mess_131
+  - first:
+      213: 4152053248193271006
+    second: mess_132
+  - first:
+      213: -2341114684926439742
+    second: mess_133
+  - first:
+      213: -1552182909373539005
+    second: mess_134
+  - first:
+      213: -5044682464527261339
+    second: mess_135
+  - first:
+      213: -6035062713966457609
+    second: mess_136
+  - first:
+      213: 36814692690178770
+    second: mess_137
+  - first:
+      213: 26431491113628215
+    second: mess_138
+  - first:
+      213: -6211531085121455763
+    second: mess_139
+  - first:
+      213: 5436224801557419525
+    second: mess_140
+  - first:
+      213: -1984069753752323398
+    second: mess_141
+  - first:
+      213: -1530785643660996849
+    second: mess_142
+  - first:
+      213: -7603806951419924413
+    second: mess_143
+  - first:
+      213: -1210121128653292600
+    second: mess_144
+  - first:
+      213: -4315585198454011803
+    second: mess_145
+  - first:
+      213: -7273620572779350146
+    second: mess_146
+  - first:
+      213: 7825621625498731763
+    second: mess_147
+  - first:
+      213: 9092965633474326074
+    second: mess_148
+  - first:
+      213: -6329691431293650214
+    second: mess_149
+  - first:
+      213: -6147708203926021131
+    second: mess_150
+  - first:
+      213: 8140185945133697889
+    second: mess_151
+  - first:
+      213: 8364023298182103855
+    second: mess_152
+  - first:
+      213: -5930315345504182301
+    second: mess_153
+  - first:
+      213: 4647815200210199244
+    second: mess_154
+  - first:
+      213: 3443876389136329555
+    second: mess_155
+  - first:
+      213: 72491196756818307
+    second: mess_156
+  - first:
+      213: 1946127281870125550
+    second: mess_157
+  - first:
+      213: -7006910369502327324
+    second: mess_158
+  - first:
+      213: -6475915913256564656
+    second: mess_159
+  - first:
+      213: -4147065589237227742
+    second: mess_160
+  - first:
+      213: 9053252972412964870
+    second: mess_161
+  - first:
+      213: -2912455679240197020
+    second: mess_162
+  - first:
+      213: -3810824442491566550
+    second: mess_163
+  - first:
+      213: 4683169850478867318
+    second: mess_164
+  - first:
+      213: -8554544032590095442
+    second: mess_165
+  - first:
+      213: -8690857302689257397
+    second: mess_166
+  - first:
+      213: -3125251903547309939
+    second: mess_167
+  - first:
+      213: -4524169685876976308
+    second: mess_168
+  - first:
+      213: 2988073396563849366
+    second: mess_169
+  - first:
+      213: 144711423303120595
+    second: mess_170
+  - first:
+      213: -4277798003318565074
+    second: mess_171
+  - first:
+      213: 1126098465132850753
+    second: mess_172
+  - first:
+      213: -8362337433053986796
+    second: mess_173
+  - first:
+      213: -7393513613259073682
+    second: mess_174
+  - first:
+      213: -5080894501796215864
+    second: mess_175
+  - first:
+      213: 125304317052814832
+    second: mess_176
+  - first:
+      213: 104935237376101942
+    second: mess_177
+  - first:
+      213: 182298219296621573
+    second: mess_178
+  - first:
+      213: -5401433698093571656
+    second: mess_179
+  - first:
+      213: 2625944281201769026
+    second: mess_180
+  - first:
+      213: -7777802384312348197
+    second: mess_181
+  - first:
+      213: 3176302313410750837
+    second: mess_182
+  - first:
+      213: -421746333531317040
+    second: mess_183
+  - first:
+      213: -3927154776532548210
+    second: mess_184
+  - first:
+      213: -2579026509158168954
+    second: mess_185
+  - first:
+      213: 8153629477063468681
+    second: mess_186
+  - first:
+      213: 6729015518478326581
+    second: mess_187
+  - first:
+      213: 486515635577737606
+    second: mess_188
+  - first:
+      213: 2014144201057945082
+    second: mess_189
+  - first:
+      213: -7803567625762235442
+    second: mess_190
+  - first:
+      213: -8294995675960921617
+    second: mess_191
+  - first:
+      213: 6565569735822614220
+    second: mess_192
+  - first:
+      213: -3448196564555690097
+    second: mess_193
+  - first:
+      213: 3319650487420929651
+    second: mess_194
+  - first:
+      213: 7350681312052006539
+    second: mess_195
+  - first:
+      213: -4122967116630754505
+    second: mess_196
+  - first:
+      213: -8819379098674308136
+    second: mess_197
+  - first:
+      213: 1881742538308400088
+    second: mess_198
+  - first:
+      213: 5910547986903575257
+    second: mess_199
+  - first:
+      213: -3981675804785909300
+    second: mess_200
+  - first:
+      213: -6809134025250169419
+    second: mess_201
+  - first:
+      213: 4422500209704212
+    second: mess_202
+  - first:
+      213: -2419042099257799082
+    second: mess_203
+  - first:
+      213: 672837817502630171
+    second: mess_204
+  - first:
+      213: 1585575748975413908
+    second: mess_205
+  - first:
+      213: 4594703975330928170
+    second: mess_206
+  - first:
+      213: -8181360854102757193
+    second: mess_207
+  - first:
+      213: 1240622233605266361
+    second: mess_208
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mess_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 650
+        width: 194
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c1bdd3386ce93c0800000000000000
+      internalID: -4350821923012535196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_1
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 632
+        width: 41
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5d86678b93377a0800000000000000
+      internalID: -6380692782630513199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_2
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 707
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65722191e6a140cd0800000000000000
+      internalID: -2592918425289218218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_3
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 701
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dcb0aca890e2d340800000000000000
+      internalID: 4887215491986275536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 683
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e212057019efec0800000000000000
+      internalID: -3531225597216739755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_5
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 659
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91afd7ba00a8ed190800000000000000
+      internalID: -7935753757898442215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_6
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 642
+        width: 123
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ec68bd91c5aee80800000000000000
+      internalID: -8148599309646508394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_7
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 614
+        width: 232
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b65b529a560ac770800000000000000
+      internalID: 8631718621881259701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_8
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 612
+        width: 76
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e36f27e09d1a390800000000000000
+      internalID: -7808721622802219519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_9
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 689
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb04034d88c95f90800000000000000
+      internalID: -6964314839711478790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_10
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 691
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b50c955347663410800000000000000
+      internalID: 1456465068397692345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_11
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 642
+        width: 19
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9d865bf39ba3900800000000000000
+      internalID: 665047578268195251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_12
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 630
+        width: 19
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb55559e45990df00800000000000000
+      internalID: 1139579295695721915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_13
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 642
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea97e60274c10af0800000000000000
+      internalID: -431848095229699350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_14
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 612
+        width: 33
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de265b43b3f03dc70800000000000000
+      internalID: 8994549627750802157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_15
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 618
+        width: 116
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dba320333ef12920800000000000000
+      internalID: 2963929525590928345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_16
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 617
+        width: 82
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a59f6002e452e4a90800000000000000
+      internalID: -7327878526210213542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_17
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 706
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7d92096d1d3f4a0800000000000000
+      internalID: -6560669512676812839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_18
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 675
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52191e49ec7bd0660800000000000000
+      internalID: 7353735864454844709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_19
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 612
+        width: 103
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f75ca0221e01a70800000000000000
+      internalID: 8795777608580431671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_20
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 661
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80965bb9bd5ca06f0800000000000000
+      internalID: -717543643611305720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_21
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 667
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7757a60d2edee72c0800000000000000
+      internalID: -4431843424870959753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_22
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 642
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 154396a1b07d84fb0800000000000000
+      internalID: -4663240971454434223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_23
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 624
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a21a0bac9499afa0800000000000000
+      internalID: -5788932445402688859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_24
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 635
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444ce7f649f9350b0800000000000000
+      internalID: -5741069640092695484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_25
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 564
+        width: 39
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7906c87a21efa650800000000000000
+      internalID: 6246458780717287802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_26
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 656
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e9539da60d49de0800000000000000
+      internalID: -1327206832838173112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_27
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 614
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb5aa6f8e7311fc0800000000000000
+      internalID: -3525975559544087555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_28
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 662
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e05b910c57ce440800000000000000
+      internalID: 4966473957008281188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_29
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 613
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f252165a9794350800000000000000
+      internalID: 6001461729654288226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_30
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 642
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b97014b8810f910800000000000000
+      internalID: 1869020831729294149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_31
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 649
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5cca952dbc79370800000000000000
+      internalID: 8329350140153087421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_32
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 659
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e653bab32b48e5a0800000000000000
+      internalID: -6491856246026316061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_33
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 612
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82738081f10c06cc0800000000000000
+      internalID: -3719762052428318936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_34
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 644
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4b249726986a170800000000000000
+      internalID: 8189384028454040760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_35
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 644
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9959f638a1445c4c0800000000000000
+      internalID: -4267930191198710375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_36
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 650
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7e027326238b7f0800000000000000
+      internalID: -596671553213503551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_37
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 642
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da7c7278e9f665e40800000000000000
+      internalID: 5644821909618542509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_38
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 634
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6c35fdb8d659a70800000000000000
+      internalID: 8833086691671787216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_39
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 659
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aded3705315961d0800000000000000
+      internalID: -3357062759031378521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_40
+      rect:
+        serializedVersion: 2
+        x: 2033
+        y: 650
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 645a2c603fbb00850800000000000000
+      internalID: 6341274927802524998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_41
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 642
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192058e5f4c8bdd40800000000000000
+      internalID: 5610232033336165009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_42
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 614
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec59b66a61a1c70a0800000000000000
+      internalID: -6882597445945289266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_43
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 630
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 624c97dec9c589bc0800000000000000
+      internalID: -3776166458481327066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_44
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 634
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bcc008d4c5ed2040800000000000000
+      internalID: 4624605025979649202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_45
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 628
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055633ba9a2ab1850800000000000000
+      internalID: 6348846949314291024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_46
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 632
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9fd6d43dad43b00800000000000000
+      internalID: 807510834278169056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_47
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 612
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca212d623b29f0d00800000000000000
+      internalID: 941132145291825836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_48
+      rect:
+        serializedVersion: 2
+        x: 2116
+        y: 614
+        width: 49
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d6cda47b473f71e0800000000000000
+      internalID: -2197977295913892137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2161
+        height: 622
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db7b6ada39dbe670800000000000000
+      internalID: 8569181562798308313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_50
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 619
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417de90301ad8fe10800000000000000
+      internalID: 2231773378432128788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_51
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 600
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8112cc04b5e21030800000000000000
+      internalID: 3464083624872251786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_52
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 610
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46948e3d176840c20800000000000000
+      internalID: 3171807861020313956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_53
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 608
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94834287bdc858970800000000000000
+      internalID: 8756559924733163593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_54
+      rect:
+        serializedVersion: 2
+        x: 1993
+        y: 591
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b1a34a31571a0b0800000000000000
+      internalID: -5719161324563719278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_55
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 591
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540792e14df402800800000000000000
+      internalID: 585555724015857733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_56
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 594
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0990ec953357440800000000000000
+      internalID: 4932905427656085750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_57
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 587
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4deab7c1ed485a9e0800000000000000
+      internalID: -1610735202219610412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_58
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 592
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae65e33cb2767fa0800000000000000
+      internalID: -5803324917170213214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_59
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 600
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837e951a5c85d73b0800000000000000
+      internalID: -5513152762992793800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_60
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 604
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18670d6285e46d800800000000000000
+      internalID: 636782537834788481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_61
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 555
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7118ec6e6fc170e00800000000000000
+      internalID: 1010808488127791383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_62
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 592
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf074426b246c9ad0800000000000000
+      internalID: -2694168339579375364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_63
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 586
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75b6527929d4b8f0800000000000000
+      internalID: -525556484460333698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_64
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 594
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29041654c1ff1f7f0800000000000000
+      internalID: -580402380065914734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_65
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 564
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945b393f82dffbe10800000000000000
+      internalID: 2215767894016636233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_66
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 584
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a4be74d22807fb0800000000000000
+      internalID: -4652075284081980877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_67
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 576
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105fa23ce5e1d0610800000000000000
+      internalID: 1588959635881784577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_68
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 577
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5077d8d9324782450800000000000000
+      internalID: 6064224594570344197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_69
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 585
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c7951816ce9df20800000000000000
+      internalID: 3448046893254933643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_70
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 584
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81fb9f2c0f3707460800000000000000
+      internalID: 7237412079084879640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_71
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 584
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052a5f1e666c9cea0800000000000000
+      internalID: -5851928095611313584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_72
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 572
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9512f6dae21b731b0800000000000000
+      internalID: -5676873991240867495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_73
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 566
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0be3e99165272eb0800000000000000
+      internalID: -4744782581287621876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_74
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 582
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 819e515690da4bbd0800000000000000
+      internalID: -2615275227733169896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_75
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 577
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b705aa182d323630800000000000000
+      internalID: 3905251069338650553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_76
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 584
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d58f93d07382f50800000000000000
+      internalID: 6856790962618260874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_77
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 575
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d49de72f4f8e4fd0800000000000000
+      internalID: -2355787984933120815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_78
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 574
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 042490dc1d3475f90800000000000000
+      internalID: -6965023730338020800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_79
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 576
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4306e56a755c8d0800000000000000
+      internalID: -2826756819045567285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_80
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 582
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7414e7dbab42f7c0800000000000000
+      internalID: -4039082714364373890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_81
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 578
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b6c095ade1e11d0800000000000000
+      internalID: -3378228747335603360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_82
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 577
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef38560413dfd45a0800000000000000
+      internalID: -6535289096269102082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_83
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 578
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf636796e37bfb4f0800000000000000
+      internalID: -810727929218189572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_84
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 525
+        width: 65
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4d6713349366610800000000000000
+      internalID: 1614040477214364875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_85
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 561
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c374f6835c80b170800000000000000
+      internalID: 8192202012561273798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_86
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 565
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d00d0320e22d65a0800000000000000
+      internalID: -6526521938933907239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_87
+      rect:
+        serializedVersion: 2
+        x: 2017
+        y: 562
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01848afb31c211f90800000000000000
+      internalID: -6984753083743451120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_88
+      rect:
+        serializedVersion: 2
+        x: 2049
+        y: 505
+        width: 44
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98208f59845d85490800000000000000
+      internalID: -7757215850415258999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_89
+      rect:
+        serializedVersion: 2
+        x: 2133
+        y: 372
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079ce0630c2682870800000000000000
+      internalID: 8658278861299960176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_90
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 176
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65034078fbbd6ef70800000000000000
+      internalID: 9216295303110733910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_91
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 142
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6627cf638b09840800000000000000
+      internalID: 5228881713680246468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_92
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 152
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c6e62b7f9992400800000000000000
+      internalID: 299940139326401670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_93
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 128
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924476fcfbdad8290800000000000000
+      internalID: -7886456333125860311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_94
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 128
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773fd72d1955460b0800000000000000
+      internalID: -5736365940573080713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_95
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 93
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a878ea0bdd5c9780800000000000000
+      internalID: -8674955586860189535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_96
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 61
+        width: 68
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c0bb2b913c01bc0800000000000000
+      internalID: -3814334369242608625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_97
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 134
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083bbeb0f4ca7ae50800000000000000
+      internalID: 6820609616178295680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_98
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 126
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7974a938358ecc3d0800000000000000
+      internalID: -3184915391069927529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_99
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 131
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428acf6f22ce4b420800000000000000
+      internalID: 2644998516090120228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_100
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 128
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b4eb3af11a207ef0800000000000000
+      internalID: -112543733983222599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_101
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 63
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da4af6095648a0e90800000000000000
+      internalID: -7058683894200032083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_102
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 118
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a5e0fef73bb8c90800000000000000
+      internalID: -7166437019977098688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_103
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 116
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e137aecdfc59dee0800000000000000
+      internalID: -1235854377572945435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_104
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 49
+        width: 115
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd4f853d1f61e4bc0800000000000000
+      internalID: -3797072207937997605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_105
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 93
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd264f71b7e173920800000000000000
+      internalID: 2969875993305834203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_106
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 91
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e991db06bfd40a0800000000000000
+      internalID: -6895579061526356436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_107
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 114
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff51c3473d881660800000000000000
+      internalID: 7356785259809169397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_108
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 114
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b8cdccf519f9c50800000000000000
+      internalID: 6674213013431290700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_109
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 110
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9899c0a56fc84ffa0800000000000000
+      internalID: -5767830233054144119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_110
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 110
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af87d2ff422c9f610800000000000000
+      internalID: 1655567802191149306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_111
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 79
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55df1248442627eb0800000000000000
+      internalID: -4723605012744110763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_112
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 57
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a349a0dc663e16b10800000000000000
+      internalID: 1973108142431179834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_113
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 94
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6067c9ede85743c0800000000000000
+      internalID: -4375430734114496401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_114
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 101
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cfe6635d5f66d7c0800000000000000
+      internalID: -4046924768523915321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_115
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 67
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b23f12e0786fd20800000000000000
+      internalID: 3311983070746454891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_116
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 95
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a77be8f10a9078eb0800000000000000
+      internalID: -4717791501318441094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_117
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 102
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de8117cc0dd0db820800000000000000
+      internalID: 2935517722549754093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_118
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 95
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9b34e5cc15dca40800000000000000
+      internalID: 5390054267229026769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_119
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 87
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88328be18a01941a0800000000000000
+      internalID: -6824905446047341688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_120
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 63
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11482325478a9e920800000000000000
+      internalID: 3020130242677343249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_121
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 98
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd0574188e0afc760800000000000000
+      internalID: 7480374426547474651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_122
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 95
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4a0666ea30803a0800000000000000
+      internalID: -6699100398136810288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_123
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 62
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff9dc06b7b975ad0800000000000000
+      internalID: -2713529296260063236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_124
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 98
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b504033cb6f023860800000000000000
+      internalID: 7508080484290674779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_125
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 61
+        width: 60
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8090a14de8492f760800000000000000
+      internalID: 7490212471435299080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_126
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 93
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f411c89a531df1e0800000000000000
+      internalID: -2162550966237195016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_127
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 45
+        width: 122
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37595f9e01bf289e0800000000000000
+      internalID: -1620456865836722829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_128
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 94
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fac9a9f02b420e70800000000000000
+      internalID: 9079902403732032245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_129
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 75
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4895992fed785c920800000000000000
+      internalID: 3009961317589670276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_130
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 79
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a0c9d5c7f7c13d0800000000000000
+      internalID: -3234570260235679172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_131
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 102
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663975f9bf954c420800000000000000
+      internalID: 2649341418045674342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_132
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 81
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed411134e6e0f9930800000000000000
+      internalID: 4152053248193271006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_133
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 82
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce428a0990b28fd0800000000000000
+      internalID: -2341114684926439742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_134
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 79
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d9b542ed9857ae0800000000000000
+      internalID: -1552182909373539005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_135
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 49
+        width: 99
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561e531c600bdf9b0800000000000000
+      internalID: -5044682464527261339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_136
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 79
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc03d0df662f3ca0800000000000000
+      internalID: -6035062713966457609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_137
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 93
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d2305894cac28000800000000000000
+      internalID: 36814692690178770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_138
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 93
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73236b61d47ed5000800000000000000
+      internalID: 26431491113628215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_139
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 59
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69f90063653cc9a0800000000000000
+      internalID: -6211531085121455763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_140
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 75
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5069ff797a9517b40800000000000000
+      internalID: 5436224801557419525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_141
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 45
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abafefd221b2774e0800000000000000
+      internalID: -1984069753752323398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_142
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 87
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f815a419e81cae0800000000000000
+      internalID: -1530785643660996849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_143
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 39
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34038f74dd9d97690800000000000000
+      internalID: -7603806951419924413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_144
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 87
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cbfc67be39c43fe0800000000000000
+      internalID: -1210121128653292600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_145
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 71
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56807308026fb14c0800000000000000
+      internalID: -4315585198454011803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_146
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 76
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77738850a8ee0b90800000000000000
+      internalID: -7273620572779350146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_147
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 61
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4877e08613a9c60800000000000000
+      internalID: 7825621625498731763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_148
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 69
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e621a2114b03e70800000000000000
+      internalID: 9092965633474326074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_149
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 69
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada78ebed2b6828a0800000000000000
+      internalID: -6329691431293650214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_150
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 69
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb1c32e5f3feaaa0800000000000000
+      internalID: -6147708203926021131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_151
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 61
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b42511dffb7f070800000000000000
+      internalID: 8140185945133697889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_152
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 61
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f234c3d00eaf21470800000000000000
+      internalID: 8364023298182103855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_153
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3efdc290d9943bda0800000000000000
+      internalID: -5930315345504182301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_154
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 63
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2a036ac4b508040800000000000000
+      internalID: 4647815200210199244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_155
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 65
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b63d8545b1bcf20800000000000000
+      internalID: 3443876389136329555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_156
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 73
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38978000c5a810100800000000000000
+      internalID: 72491196756818307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_157
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 79
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9b09ba378020b10800000000000000
+      internalID: 1946127281870125550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_158
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 61
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed00d4a42472ce90800000000000000
+      internalID: -7006910369502327324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_159
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 53
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0580b0ba9cce026a0800000000000000
+      internalID: -6475915913256564656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_160
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 49
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22fd44591d9a276c0800000000000000
+      internalID: -4147065589237227742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_161
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 49
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6009c6abc9d93ad70800000000000000
+      internalID: 9053252972412964870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_162
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 61
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ca1d69df0e497d0800000000000000
+      internalID: -2912455679240197020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_163
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 55
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a260ae33c5b3d1bc0800000000000000
+      internalID: -3810824442491566550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_164
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 63
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673bc90aa26fdf040800000000000000
+      internalID: 4683169850478867318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_165
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 65
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab970ab687284980800000000000000
+      internalID: -8554544032590095442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_166
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 65
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48e89f445fd36780800000000000000
+      internalID: -8690857302689257397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_167
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 55
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d800377b3ffd0a4d0800000000000000
+      internalID: -3125251903547309939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_168
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 50
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4556b904abe631c0800000000000000
+      internalID: -4524169685876976308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_169
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 57
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690bbf43ce4c77920800000000000000
+      internalID: 2988073396563849366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_170
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 53
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d67ce4d54e120200800000000000000
+      internalID: 144711423303120595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_171
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 47
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e275257716532a4c0800000000000000
+      internalID: -4277798003318565074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_172
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 45
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e2b547694b0af00800000000000000
+      internalID: 1126098465132850753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_173
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 47
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4108dd2096203fb80800000000000000
+      internalID: -8362337433053986796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_174
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 47
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e679daf8a86f46990800000000000000
+      internalID: -7393513613259073682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_175
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 43
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3833fce590d79b0800000000000000
+      internalID: -5080894501796215864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_176
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 43
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f581cacc9b2db100800000000000000
+      internalID: 125304317052814832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_177
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 49
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e493cda0ec47100800000000000000
+      internalID: 104935237376101942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_178
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 44
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5048c5cb347a78200800000000000000
+      internalID: 182298219296621573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_179
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 33
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b1ee4b6ba04a05b0800000000000000
+      internalID: -5401433698093571656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_180
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 39
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24afff0396a317420800000000000000
+      internalID: 2625944281201769026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_181
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 38
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd150e5a0f1bf0490800000000000000
+      internalID: -7777802384312348197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_182
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 31
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5796912102e741c20800000000000000
+      internalID: 3176302313410750837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_183
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 43
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dcda84b1f7a52af0800000000000000
+      internalID: -421746333531317040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_184
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 32
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e858cc6a981ff79c0800000000000000
+      internalID: -3927154776532548210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_185
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 33
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686cf4fdd05753cd0800000000000000
+      internalID: -2579026509158168954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_186
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 19
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 986a5824fc2872170800000000000000
+      internalID: 8153629477063468681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_187
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 31
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53bddf256f3426d50800000000000000
+      internalID: 6729015518478326581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_188
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 17
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681d844946370c600800000000000000
+      internalID: 486515635577737606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_189
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 19
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5c87eba7da3fb10800000000000000
+      internalID: 2014144201057945082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_190
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 31
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb14b5e69824b390800000000000000
+      internalID: -7803567625762235442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_191
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 19
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe1b2f8a16142ec80800000000000000
+      internalID: -8294995675960921617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_192
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 21
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce13cb83e69d1b50800000000000000
+      internalID: 6565569735822614220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_193
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 31
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f8fed6e7b8520d0800000000000000
+      internalID: -3448196564555690097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_194
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 34
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3764d21b784c11e20800000000000000
+      internalID: 3319650487420929651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_195
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 16
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e46fd25bdd20660800000000000000
+      internalID: 7350681312052006539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_196
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 17
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b7b98704748c6c0800000000000000
+      internalID: -4122967116630754505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_197
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 15
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db5304df654b9580800000000000000
+      internalID: -8819379098674308136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_198
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 17
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d33d926eda4d1a10800000000000000
+      internalID: 1881742538308400088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_199
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 15
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9daa943241c760250800000000000000
+      internalID: 5910547986903575257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_200
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 17
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1e7fc83fe3eb8c0800000000000000
+      internalID: -3981675804785909300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_201
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 23
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd10fc2ea81181a0800000000000000
+      internalID: -6809134025250169419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_202
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 21
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41db4029d36bf0000800000000000000
+      internalID: 4422500209704212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_203
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 15
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e06010706dd6ed0800000000000000
+      internalID: -2419042099257799082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_204
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 23
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1181bf1e66665900800000000000000
+      internalID: 672837817502630171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_205
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 12
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a47223eb8110610800000000000000
+      internalID: 1585575748975413908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_206
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 7
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a26dca9fbeaa3cf30800000000000000
+      internalID: 4594703975330928170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_207
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 7
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b03bef56a7f57e80800000000000000
+      internalID: -8181360854102757193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mess_208
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 0
+        width: 25
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb5e7e2953973110800000000000000
+      internalID: 1240622233605266361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mess_0: -4350821923012535196
+      mess_1: -6380692782630513199
+      mess_10: 1456465068397692345
+      mess_100: -112543733983222599
+      mess_101: -7058683894200032083
+      mess_102: -7166437019977098688
+      mess_103: -1235854377572945435
+      mess_104: -3797072207937997605
+      mess_105: 2969875993305834203
+      mess_106: -6895579061526356436
+      mess_107: 7356785259809169397
+      mess_108: 6674213013431290700
+      mess_109: -5767830233054144119
+      mess_11: 665047578268195251
+      mess_110: 1655567802191149306
+      mess_111: -4723605012744110763
+      mess_112: 1973108142431179834
+      mess_113: -4375430734114496401
+      mess_114: -4046924768523915321
+      mess_115: 3311983070746454891
+      mess_116: -4717791501318441094
+      mess_117: 2935517722549754093
+      mess_118: 5390054267229026769
+      mess_119: -6824905446047341688
+      mess_12: 1139579295695721915
+      mess_120: 3020130242677343249
+      mess_121: 7480374426547474651
+      mess_122: -6699100398136810288
+      mess_123: -2713529296260063236
+      mess_124: 7508080484290674779
+      mess_125: 7490212471435299080
+      mess_126: -2162550966237195016
+      mess_127: -1620456865836722829
+      mess_128: 9079902403732032245
+      mess_129: 3009961317589670276
+      mess_13: -431848095229699350
+      mess_130: -3234570260235679172
+      mess_131: 2649341418045674342
+      mess_132: 4152053248193271006
+      mess_133: -2341114684926439742
+      mess_134: -1552182909373539005
+      mess_135: -5044682464527261339
+      mess_136: -6035062713966457609
+      mess_137: 36814692690178770
+      mess_138: 26431491113628215
+      mess_139: -6211531085121455763
+      mess_14: 8994549627750802157
+      mess_140: 5436224801557419525
+      mess_141: -1984069753752323398
+      mess_142: -1530785643660996849
+      mess_143: -7603806951419924413
+      mess_144: -1210121128653292600
+      mess_145: -4315585198454011803
+      mess_146: -7273620572779350146
+      mess_147: 7825621625498731763
+      mess_148: 9092965633474326074
+      mess_149: -6329691431293650214
+      mess_15: 2963929525590928345
+      mess_150: -6147708203926021131
+      mess_151: 8140185945133697889
+      mess_152: 8364023298182103855
+      mess_153: -5930315345504182301
+      mess_154: 4647815200210199244
+      mess_155: 3443876389136329555
+      mess_156: 72491196756818307
+      mess_157: 1946127281870125550
+      mess_158: -7006910369502327324
+      mess_159: -6475915913256564656
+      mess_16: -7327878526210213542
+      mess_160: -4147065589237227742
+      mess_161: 9053252972412964870
+      mess_162: -2912455679240197020
+      mess_163: -3810824442491566550
+      mess_164: 4683169850478867318
+      mess_165: -8554544032590095442
+      mess_166: -8690857302689257397
+      mess_167: -3125251903547309939
+      mess_168: -4524169685876976308
+      mess_169: 2988073396563849366
+      mess_17: -6560669512676812839
+      mess_170: 144711423303120595
+      mess_171: -4277798003318565074
+      mess_172: 1126098465132850753
+      mess_173: -8362337433053986796
+      mess_174: -7393513613259073682
+      mess_175: -5080894501796215864
+      mess_176: 125304317052814832
+      mess_177: 104935237376101942
+      mess_178: 182298219296621573
+      mess_179: -5401433698093571656
+      mess_18: 7353735864454844709
+      mess_180: 2625944281201769026
+      mess_181: -7777802384312348197
+      mess_182: 3176302313410750837
+      mess_183: -421746333531317040
+      mess_184: -3927154776532548210
+      mess_185: -2579026509158168954
+      mess_186: 8153629477063468681
+      mess_187: 6729015518478326581
+      mess_188: 486515635577737606
+      mess_189: 2014144201057945082
+      mess_19: 8795777608580431671
+      mess_190: -7803567625762235442
+      mess_191: -8294995675960921617
+      mess_192: 6565569735822614220
+      mess_193: -3448196564555690097
+      mess_194: 3319650487420929651
+      mess_195: 7350681312052006539
+      mess_196: -4122967116630754505
+      mess_197: -8819379098674308136
+      mess_198: 1881742538308400088
+      mess_199: 5910547986903575257
+      mess_2: -2592918425289218218
+      mess_20: -717543643611305720
+      mess_200: -3981675804785909300
+      mess_201: -6809134025250169419
+      mess_202: 4422500209704212
+      mess_203: -2419042099257799082
+      mess_204: 672837817502630171
+      mess_205: 1585575748975413908
+      mess_206: 4594703975330928170
+      mess_207: -8181360854102757193
+      mess_208: 1240622233605266361
+      mess_21: -4431843424870959753
+      mess_22: -4663240971454434223
+      mess_23: -5788932445402688859
+      mess_24: -5741069640092695484
+      mess_25: 6246458780717287802
+      mess_26: -1327206832838173112
+      mess_27: -3525975559544087555
+      mess_28: 4966473957008281188
+      mess_29: 6001461729654288226
+      mess_3: 4887215491986275536
+      mess_30: 1869020831729294149
+      mess_31: 8329350140153087421
+      mess_32: -6491856246026316061
+      mess_33: -3719762052428318936
+      mess_34: 8189384028454040760
+      mess_35: -4267930191198710375
+      mess_36: -596671553213503551
+      mess_37: 5644821909618542509
+      mess_38: 8833086691671787216
+      mess_39: -3357062759031378521
+      mess_4: -3531225597216739755
+      mess_40: 6341274927802524998
+      mess_41: 5610232033336165009
+      mess_42: -6882597445945289266
+      mess_43: -3776166458481327066
+      mess_44: 4624605025979649202
+      mess_45: 6348846949314291024
+      mess_46: 807510834278169056
+      mess_47: 941132145291825836
+      mess_48: -2197977295913892137
+      mess_49: 8569181562798308313
+      mess_5: -7935753757898442215
+      mess_50: 2231773378432128788
+      mess_51: 3464083624872251786
+      mess_52: 3171807861020313956
+      mess_53: 8756559924733163593
+      mess_54: -5719161324563719278
+      mess_55: 585555724015857733
+      mess_56: 4932905427656085750
+      mess_57: -1610735202219610412
+      mess_58: -5803324917170213214
+      mess_59: -5513152762992793800
+      mess_6: -8148599309646508394
+      mess_60: 636782537834788481
+      mess_61: 1010808488127791383
+      mess_62: -2694168339579375364
+      mess_63: -525556484460333698
+      mess_64: -580402380065914734
+      mess_65: 2215767894016636233
+      mess_66: -4652075284081980877
+      mess_67: 1588959635881784577
+      mess_68: 6064224594570344197
+      mess_69: 3448046893254933643
+      mess_7: 8631718621881259701
+      mess_70: 7237412079084879640
+      mess_71: -5851928095611313584
+      mess_72: -5676873991240867495
+      mess_73: -4744782581287621876
+      mess_74: -2615275227733169896
+      mess_75: 3905251069338650553
+      mess_76: 6856790962618260874
+      mess_77: -2355787984933120815
+      mess_78: -6965023730338020800
+      mess_79: -2826756819045567285
+      mess_8: -7808721622802219519
+      mess_80: -4039082714364373890
+      mess_81: -3378228747335603360
+      mess_82: -6535289096269102082
+      mess_83: -810727929218189572
+      mess_84: 1614040477214364875
+      mess_85: 8192202012561273798
+      mess_86: -6526521938933907239
+      mess_87: -6984753083743451120
+      mess_88: -7757215850415258999
+      mess_89: 8658278861299960176
+      mess_9: -6964314839711478790
+      mess_90: 9216295303110733910
+      mess_91: 5228881713680246468
+      mess_92: 299940139326401670
+      mess_93: -7886456333125860311
+      mess_94: -5736365940573080713
+      mess_95: -8674955586860189535
+      mess_96: -3814334369242608625
+      mess_97: 6820609616178295680
+      mess_98: -3184915391069927529
+      mess_99: 2644998516090120228
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

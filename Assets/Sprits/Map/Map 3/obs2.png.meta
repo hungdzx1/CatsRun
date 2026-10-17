@@ -1,0 +1,549 @@
+fileFormatVersion: 2
+guid: 281aff3801a1dec40a6708e9ac5da8a8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4004149971438830654
+    second: obs2_0
+  - first:
+      213: 8277192868146651284
+    second: obs2_1
+  - first:
+      213: -8467759800113845978
+    second: obs2_2
+  - first:
+      213: 997784724924503210
+    second: obs2_3
+  - first:
+      213: -7345569594709433028
+    second: obs2_4
+  - first:
+      213: -4377045744643801990
+    second: obs2_5
+  - first:
+      213: -2304183055516600634
+    second: obs2_6
+  - first:
+      213: 7893368418784319164
+    second: obs2_7
+  - first:
+      213: 8706706665047373822
+    second: obs2_8
+  - first:
+      213: 335202225191637763
+    second: obs2_9
+  - first:
+      213: -6749470260563043407
+    second: obs2_10
+  - first:
+      213: -7657782477765064789
+    second: obs2_11
+  - first:
+      213: -6066679506292764591
+    second: obs2_12
+  - first:
+      213: -2630282212160692834
+    second: obs2_13
+  - first:
+      213: -5084607304694018083
+    second: obs2_14
+  - first:
+      213: -5387951796735526809
+    second: obs2_15
+  - first:
+      213: -3921544861742721299
+    second: obs2_16
+  - first:
+      213: 7975780900274481585
+    second: obs2_17
+  - first:
+      213: -5973437528861033181
+    second: obs2_18
+  - first:
+      213: -4598611539033759192
+    second: obs2_19
+  - first:
+      213: -191018146168494670
+    second: obs2_20
+  - first:
+      213: 6283901783144694698
+    second: obs2_21
+  - first:
+      213: 8592831716378188877
+    second: obs2_22
+  - first:
+      213: -5832454684299885762
+    second: obs2_23
+  - first:
+      213: -969491193463713503
+    second: obs2_24
+  - first:
+      213: -5428661412496554043
+    second: obs2_25
+  - first:
+      213: 6347723074292545691
+    second: obs2_26
+  - first:
+      213: 5798481235112369411
+    second: obs2_27
+  - first:
+      213: 2746891486925289070
+    second: obs2_28
+  - first:
+      213: -252956780570482034
+    second: obs2_29
+  - first:
+      213: 1551813541882694308
+    second: obs2_30
+  - first:
+      213: -4598159022984218110
+    second: obs2_31
+  - first:
+      213: -6763770589123593194
+    second: obs2_32
+  - first:
+      213: -7971368358603431571
+    second: obs2_33
+  - first:
+      213: 828557395573806061
+    second: obs2_34
+  - first:
+      213: -1595992995413970869
+    second: obs2_35
+  - first:
+      213: -5230792657835724414
+    second: obs2_36
+  - first:
+      213: 5722678044103293494
+    second: obs2_37
+  - first:
+      213: 1382240692956726574
+    second: obs2_38
+  - first:
+      213: 3935715563049360712
+    second: obs2_39
+  - first:
+      213: 3345791746637470369
+    second: obs2_40
+  - first:
+      213: -652861125006946919
+    second: obs2_41
+  - first:
+      213: -4492895249107464012
+    second: obs2_42
+  - first:
+      213: 8109790591233956637
+    second: obs2_43
+  - first:
+      213: -6344755756383079971
+    second: obs2_44
+  - first:
+      213: -3122882892336128676
+    second: obs2_45
+  - first:
+      213: -5113930694485250477
+    second: obs2_46
+  - first:
+      213: 8158106787445336806
+    second: obs2_47
+  - first:
+      213: 7760861069986302110
+    second: obs2_48
+  - first:
+      213: 4005600434241880079
+    second: obs2_49
+  - first:
+      213: -2939194509409891604
+    second: obs2_50
+  - first:
+      213: -5774369678326752442
+    second: obs2_51
+  - first:
+      213: 1776912855388008481
+    second: obs2_52
+  - first:
+      213: -1642650974397794408
+    second: obs2_53
+  - first:
+      213: 3518054023587352587
+    second: obs2_54
+  - first:
+      213: 4879062046000040173
+    second: obs2_55
+  - first:
+      213: -8362551259955189524
+    second: obs2_56
+  - first:
+      213: -4787666013934584688
+    second: obs2_57
+  - first:
+      213: 1492252143487076207
+    second: obs2_58
+  - first:
+      213: -6795049689536658518
+    second: obs2_59
+  - first:
+      213: -8625947112717854892
+    second: obs2_60
+  - first:
+      213: 5152659730743834066
+    second: obs2_61
+  - first:
+      213: -9145985287416935726
+    second: obs2_62
+  - first:
+      213: -9180225106392806814
+    second: obs2_63
+  - first:
+      213: -3083350581855493528
+    second: obs2_64
+  - first:
+      213: 8074461200419779749
+    second: obs2_65
+  - first:
+      213: 447171148837994323
+    second: obs2_66
+  - first:
+      213: 6092108474670722187
+    second: obs2_67
+  - first:
+      213: 8485007275584769006
+    second: obs2_68
+  - first:
+      213: 6301779951804576962
+    second: obs2_69
+  - first:
+      213: 8148189054631780777
+    second: obs2_70
+  - first:
+      213: 4753226447759132049
+    second: obs2_71
+  - first:
+      213: 4747664697312812365
+    second: obs2_72
+  - first:
+      213: 414778033439646377
+    second: obs2_73
+  - first:
+      213: -1689313356113956715
+    second: obs2_74
+  - first:
+      213: 1667966704172512711
+    second: obs2_75
+  - first:
+      213: -3594420904481606774
+    second: obs2_76
+  - first:
+      213: -6796811360704508008
+    second: obs2_77
+  - first:
+      213: -1979558960292566495
+    second: obs2_78
+  - first:
+      213: -898025089538487105
+    second: obs2_79
+  - first:
+      213: -6621909586968619361
+    second: obs2_80
+  - first:
+      213: 4426894541422815254
+    second: obs2_81
+  - first:
+      213: -5342903085853085542
+    second: obs2_82
+  - first:
+      213: -581725494946714903
+    second: obs2_83
+  - first:
+      213: 4288967367900323977
+    second: obs2_84
+  - first:
+      213: 179557995419972906
+    second: obs2_85
+  - first:
+      213: 1748179242819797560
+    second: obs2_86
+  - first:
+      213: -112327008760861732
+    second: obs2_87
+  - first:
+      213: 624679028285168023
+    second: obs2_88
+  - first:
+      213: 1653569663450389519
+    second: obs2_89
+  - first:
+      213: 248544115017177679
+    second: obs2_90
+  - first:
+      213: -8607369427239144465
+    second: obs2_91
+  - first:
+      213: 4576470498376910466
+    second: obs2_92
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: obs2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 524
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3480032f29919730800000000000000
+      internalID: 4004149971438830654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obs2_1
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 524
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49027432f0f7ed270800000000000000
+      internalID: 8277192868146651284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obs2_2
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 524
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629a1ee63597c7a80800000000000000
+      internalID: -8467759800113845978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obs2_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa49f6bbbe7d8dd00800000000000000
+      internalID: 997784724924503210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obs2_4
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 24
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c352f624f5b4f0a90800000000000000
+      internalID: -7345569594709433028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obs2_5
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 24
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7cfed8f51c9143c0800000000000000
+      internalID: -4377045744643801990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 66a015120f8871e49a5c6d04fd265b09
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":500.0,"y":500.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      obs2_0: 4004149971438830654
+      obs2_1: 8277192868146651284
+      obs2_2: -8467759800113845978
+      obs2_3: 997784724924503210
+      obs2_4: -7345569594709433028
+      obs2_5: -4377045744643801990
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

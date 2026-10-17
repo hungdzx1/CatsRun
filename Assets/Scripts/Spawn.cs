@@ -38,15 +38,15 @@ public class Spawn : MonoBehaviour
         }
     }
     private void renderObstacle()
-    {
-        int index = Random.Range(0, obstacle.Length);
-        if(index == 0 || index == 1)
-        {
-            GameObject newObstacle = Instantiate(obstacle[index], flyPoint.position, Quaternion.identity);
-        }
-        else if (index == 2)
-        {
-            GameObject newObstacle = Instantiate(obstacle[index], groundPoint.position, Quaternion.identity);
-        }
-    }
+{
+    if (obstacle == null || obstacle.Length == 0) return;
+    
+    int index = Random.Range(0, obstacle.Length);
+    GameObject selectedObstacle = obstacle[index];
+    if (selectedObstacle == null) return;
+    // Tự động kiểm tra xem con này bay hay đi bộ để chọn điểm spawn thích hợp
+    Obstacle obsComponent = selectedObstacle.GetComponent<Obstacle>();
+    Transform spawnPoint = (obsComponent != null && obsComponent.IsFlying) ? flyPoint : groundPoint;
+    Instantiate(selectedObstacle, spawnPoint.position, Quaternion.identity);
+}
 }

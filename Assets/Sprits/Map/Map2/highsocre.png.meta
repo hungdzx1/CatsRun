@@ -1,0 +1,1248 @@
+fileFormatVersion: 2
+guid: 112e0e59dda45b240b6b4187bcc8aec9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5300896476689977573
+    second: highsocre_0
+  - first:
+      213: 7457590231451831186
+    second: highsocre_1
+  - first:
+      213: -4028371896263844418
+    second: highsocre_2
+  - first:
+      213: -3290693810997030471
+    second: highsocre_3
+  - first:
+      213: -1363882554898707787
+    second: highsocre_4
+  - first:
+      213: -2350775952967691918
+    second: highsocre_5
+  - first:
+      213: -5759249010655487438
+    second: highsocre_6
+  - first:
+      213: 7797271269990894300
+    second: highsocre_7
+  - first:
+      213: 4302849497175095711
+    second: highsocre_8
+  - first:
+      213: 7117690094833919511
+    second: highsocre_9
+  - first:
+      213: -5051513988731217890
+    second: highsocre_10
+  - first:
+      213: 510977905517479778
+    second: highsocre_11
+  - first:
+      213: -3620647349100062115
+    second: highsocre_12
+  - first:
+      213: -3246283963268859946
+    second: highsocre_13
+  - first:
+      213: -3903003696248513355
+    second: highsocre_14
+  - first:
+      213: 7169779655516766667
+    second: highsocre_15
+  - first:
+      213: -8679777058606066247
+    second: highsocre_16
+  - first:
+      213: -2906609843739922886
+    second: highsocre_17
+  - first:
+      213: -8952591781250466893
+    second: highsocre_18
+  - first:
+      213: 4718241431842631631
+    second: highsocre_19
+  - first:
+      213: 6186432062660580066
+    second: highsocre_20
+  - first:
+      213: -1968793267137309402
+    second: highsocre_21
+  - first:
+      213: -8180595980577765530
+    second: highsocre_22
+  - first:
+      213: 4827434385362223054
+    second: highsocre_23
+  - first:
+      213: 161986497565899052
+    second: highsocre_24
+  - first:
+      213: -204182265535357656
+    second: highsocre_25
+  - first:
+      213: 8761057331579834057
+    second: highsocre_26
+  - first:
+      213: 1205938273919215338
+    second: highsocre_27
+  - first:
+      213: 4065585510116477457
+    second: highsocre_28
+  - first:
+      213: 2057893084657800053
+    second: highsocre_29
+  - first:
+      213: 3640010530146921919
+    second: highsocre_30
+  - first:
+      213: -910187122241545625
+    second: highsocre_31
+  - first:
+      213: 5250005327409066780
+    second: highsocre_32
+  - first:
+      213: -1012830323000702277
+    second: highsocre_33
+  - first:
+      213: -8751386292834794848
+    second: highsocre_34
+  - first:
+      213: 3974770359798951310
+    second: highsocre_35
+  - first:
+      213: 8796046697190841715
+    second: highsocre_36
+  - first:
+      213: 5083698429559746925
+    second: highsocre_37
+  - first:
+      213: 8936748818159281853
+    second: highsocre_38
+  - first:
+      213: 4673115499202631040
+    second: highsocre_39
+  - first:
+      213: 8912700962566689733
+    second: highsocre_40
+  - first:
+      213: 7468079197977082563
+    second: highsocre_41
+  - first:
+      213: 8941632440522251963
+    second: highsocre_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: highsocre_0
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 981
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f26c36dbe6f66b0800000000000000
+      internalID: -5300896476689977573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highsocre_1
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 977
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b0c12bdceae7760800000000000000
+      internalID: 7457590231451831186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highsocre_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 1496
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebdd6048a195818c0800000000000000
+      internalID: -4028371896263844418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highsocre_3
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 951
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b112fae96b1552d0800000000000000
+      internalID: -3290693810997030471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highsocre_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 630
+        width: 5
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba09efda04821de0800000000000000
+      internalID: -1363882554898707787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highsocre_5
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 65
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27194d8c9bd506fd0800000000000000
+      internalID: -2350775952967691918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highsocre_6
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 65
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a1cd2e9890310b0800000000000000
+      internalID: -5759249010655487438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highsocre_7
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 79
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda8a2988e8753c60800000000000000
+      internalID: 7797271269990894300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highsocre_8
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 74
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f99f619f1dac6bb30800000000000000
+      internalID: 4302849497175095711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highsocre_9
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 53
+        width: 77
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71664eb1e6d17c260800000000000000
+      internalID: 7117690094833919511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highsocre_10
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 77
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1852c39aca65e9b0800000000000000
+      internalID: -5051513988731217890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highsocre_11
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 83
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2674172a2bb571700800000000000000
+      internalID: 510977905517479778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highsocre_12
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 85
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a5ee34b60e0cdc0800000000000000
+      internalID: -3620647349100062115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highsocre_13
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 63
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7ff495fe1e2f2d0800000000000000
+      internalID: -3246283963268859946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highsocre_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 57
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc121831deb5d9c0800000000000000
+      internalID: -3903003696248513355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highsocre_15
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 34
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc146ec0c9c208360800000000000000
+      internalID: 7169779655516766667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highsocre_16
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 47
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5533ca0cc3b8780800000000000000
+      internalID: -8679777058606066247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highsocre_17
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 67
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e6a3b3fb5a9a7d0800000000000000
+      internalID: -2906609843739922886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highsocre_18
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 67
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bbfb73353102c380800000000000000
+      internalID: -8952591781250466893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highsocre_19
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 63
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcfa28d759f8a7140800000000000000
+      internalID: 4718241431842631631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highsocre_20
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 47
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e298f11f2f9ad550800000000000000
+      internalID: 6186432062660580066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highsocre_21
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 45
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625991464f07da4e0800000000000000
+      internalID: -1968793267137309402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highsocre_22
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 53
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6678cae5c4fa87e80800000000000000
+      internalID: -8180595980577765530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highsocre_23
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 46
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf75042ffd7ef240800000000000000
+      internalID: 4827434385362223054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highsocre_24
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 45
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2933dd7cdd7f3200800000000000000
+      internalID: 161986497565899052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highsocre_25
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 37
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d9451bf499a2df0800000000000000
+      internalID: -204182265535357656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highsocre_26
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 31
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cec5a99937859970800000000000000
+      internalID: 8761057331579834057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highsocre_27
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 39
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6a006887a5cb010800000000000000
+      internalID: 1205938273919215338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highsocre_28
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 21
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ac7762b7cdb6830800000000000000
+      internalID: 4065585510116477457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highsocre_29
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 31
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573d2c87bda1f8c10800000000000000
+      internalID: 2057893084657800053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highsocre_30
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 31
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbda614aa4ae38230800000000000000
+      internalID: 3640010530146921919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highsocre_31
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 33
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a58ab72ad5e53f0800000000000000
+      internalID: -910187122241545625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highsocre_32
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 31
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1330219704cbd840800000000000000
+      internalID: 5250005327409066780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highsocre_33
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 29
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba8ccbff24b1f1f0800000000000000
+      internalID: -1012830323000702277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highsocre_34
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 31
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a20c539884dc8680800000000000000
+      internalID: -8751386292834794848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highsocre_35
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 31
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d619f3598392730800000000000000
+      internalID: 3974770359798951310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highsocre_36
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 33
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ddecd1ed5d11a70800000000000000
+      internalID: 8796046697190841715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highsocre_37
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 0
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61be1f79ccec8640800000000000000
+      internalID: 5083698429559746925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highsocre_38
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 21
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db6a64183b5b50c70800000000000000
+      internalID: 8936748818159281853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highsocre_39
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 17
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 085585c89cd3ad040800000000000000
+      internalID: 4673115499202631040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highsocre_40
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 17
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c3d11fcd4640bb70800000000000000
+      internalID: 8912700962566689733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highsocre_41
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 15
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca78e58672f3a760800000000000000
+      internalID: 7468079197977082563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highsocre_42
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 18
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe1071745f071c70800000000000000
+      internalID: 8941632440522251963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      highsocre_0: -5300896476689977573
+      highsocre_1: 7457590231451831186
+      highsocre_10: -5051513988731217890
+      highsocre_11: 510977905517479778
+      highsocre_12: -3620647349100062115
+      highsocre_13: -3246283963268859946
+      highsocre_14: -3903003696248513355
+      highsocre_15: 7169779655516766667
+      highsocre_16: -8679777058606066247
+      highsocre_17: -2906609843739922886
+      highsocre_18: -8952591781250466893
+      highsocre_19: 4718241431842631631
+      highsocre_2: -4028371896263844418
+      highsocre_20: 6186432062660580066
+      highsocre_21: -1968793267137309402
+      highsocre_22: -8180595980577765530
+      highsocre_23: 4827434385362223054
+      highsocre_24: 161986497565899052
+      highsocre_25: -204182265535357656
+      highsocre_26: 8761057331579834057
+      highsocre_27: 1205938273919215338
+      highsocre_28: 4065585510116477457
+      highsocre_29: 2057893084657800053
+      highsocre_3: -3290693810997030471
+      highsocre_30: 3640010530146921919
+      highsocre_31: -910187122241545625
+      highsocre_32: 5250005327409066780
+      highsocre_33: -1012830323000702277
+      highsocre_34: -8751386292834794848
+      highsocre_35: 3974770359798951310
+      highsocre_36: 8796046697190841715
+      highsocre_37: 5083698429559746925
+      highsocre_38: 8936748818159281853
+      highsocre_39: 4673115499202631040
+      highsocre_4: -1363882554898707787
+      highsocre_40: 8912700962566689733
+      highsocre_41: 7468079197977082563
+      highsocre_42: 8941632440522251963
+      highsocre_5: -2350775952967691918
+      highsocre_6: -5759249010655487438
+      highsocre_7: 7797271269990894300
+      highsocre_8: 4302849497175095711
+      highsocre_9: 7117690094833919511
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

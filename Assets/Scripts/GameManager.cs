@@ -15,6 +15,7 @@ public class GameManager : MonoBehaviour
     [SerializeField] private TextMeshProUGUI scoreTextGameOver;
     private float score = 0;
     [SerializeField] private TextMeshProUGUI bestScoreText;
+    [SerializeField] private TextMeshProUGUI bestScoreTextGameOver;
     private int bestScore = 0;  
 
     [SerializeField] private GameObject[] Text;
@@ -118,7 +119,8 @@ public class GameManager : MonoBehaviour
         float dieLength = playerAnimator.GetCurrentAnimatorStateInfo(0).length;
         yield return new WaitForSeconds(dieLength + 0.4f);
 
-        scoreTextGameOver.text = "Score: " + Mathf.FloorToInt(score).ToString();
+        scoreTextGameOver.text = Mathf.FloorToInt(score).ToString();
+        bestScoreTextGameOver.text = bestScore.ToString();
         Text[0].SetActive(false);
         Text[1].SetActive(false);
         Text[2].SetActive(true);

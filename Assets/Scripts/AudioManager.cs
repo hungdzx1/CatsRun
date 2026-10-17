@@ -135,9 +135,7 @@ public class AudioManager : MonoBehaviour
     {
         if (sfxSource != null && clickSFX != null)
         {
-            sfxSource.clip = clickSFX;
-            sfxSource.time = 0.4f;
-            sfxSource.Play();
+            sfxSource.PlayOneShot(clickSFX);
         }
     }
 }

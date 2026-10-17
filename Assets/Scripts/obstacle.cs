@@ -4,7 +4,10 @@ public class Obstacle : MonoBehaviour
 {
    
     public float leftRange = -18f;
-    
+    [SerializeField] private bool isFlying = false;
+
+    public bool IsFlying => isFlying;
+
     void Start()
     {
         
@@ -34,3 +37,4 @@ public class Obstacle : MonoBehaviour
     }
 
 }
+

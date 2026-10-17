@@ -1,0 +1,1534 @@
+fileFormatVersion: 2
+guid: 2e06ea3c19f4c3d45807bdf57e6393ff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4004149971438830654
+    second: obs2_0
+  - first:
+      213: 8277192868146651284
+    second: obs2_1
+  - first:
+      213: -8467759800113845978
+    second: obs2_2
+  - first:
+      213: 997784724924503210
+    second: obs2_3
+  - first:
+      213: -7345569594709433028
+    second: obs2_4
+  - first:
+      213: -4377045744643801990
+    second: obs2_5
+  - first:
+      213: -2304183055516600634
+    second: obs2_6
+  - first:
+      213: 7893368418784319164
+    second: obs2_7
+  - first:
+      213: 8706706665047373822
+    second: obs2_8
+  - first:
+      213: 335202225191637763
+    second: obs2_9
+  - first:
+      213: -6749470260563043407
+    second: obs2_10
+  - first:
+      213: -7657782477765064789
+    second: obs2_11
+  - first:
+      213: -6066679506292764591
+    second: obs2_12
+  - first:
+      213: -2630282212160692834
+    second: obs2_13
+  - first:
+      213: -5084607304694018083
+    second: obs2_14
+  - first:
+      213: -5387951796735526809
+    second: obs2_15
+  - first:
+      213: -3921544861742721299
+    second: obs2_16
+  - first:
+      213: 7975780900274481585
+    second: obs2_17
+  - first:
+      213: -5973437528861033181
+    second: obs2_18
+  - first:
+      213: -4598611539033759192
+    second: obs2_19
+  - first:
+      213: -191018146168494670
+    second: obs2_20
+  - first:
+      213: 6283901783144694698
+    second: obs2_21
+  - first:
+      213: 8592831716378188877
+    second: obs2_22
+  - first:
+      213: -5832454684299885762
+    second: obs2_23
+  - first:
+      213: -969491193463713503
+    second: obs2_24
+  - first:
+      213: -5428661412496554043
+    second: obs2_25
+  - first:
+      213: 6347723074292545691
+    second: obs2_26
+  - first:
+      213: 5798481235112369411
+    second: obs2_27
+  - first:
+      213: 2746891486925289070
+    second: obs2_28
+  - first:
+      213: -252956780570482034
+    second: obs2_29
+  - first:
+      213: 1551813541882694308
+    second: obs2_30
+  - first:
+      213: -4598159022984218110
+    second: obs2_31
+  - first:
+      213: -6763770589123593194
+    second: obs2_32
+  - first:
+      213: -7971368358603431571
+    second: obs2_33
+  - first:
+      213: 828557395573806061
+    second: obs2_34
+  - first:
+      213: -1595992995413970869
+    second: obs2_35
+  - first:
+      213: -5230792657835724414
+    second: obs2_36
+  - first:
+      213: 5722678044103293494
+    second: obs2_37
+  - first:
+      213: 1382240692956726574
+    second: obs2_38
+  - first:
+      213: 3935715563049360712
+    second: obs2_39
+  - first:
+      213: 3345791746637470369
+    second: obs2_40
+  - first:
+      213: -652861125006946919
+    second: obs2_41
+  - first:
+      213: -4492895249107464012
+    second: obs2_42
+  - first:
+      213: 8109790591233956637
+    second: obs2_43
+  - first:
+      213: -6344755756383079971
+    second: obs2_44
+  - first:
+      213: -3122882892336128676
+    second: obs2_45
+  - first:
+      213: -5113930694485250477
+    second: obs2_46
+  - first:
+      213: 8158106787445336806
+    second: obs2_47
+  - first:
+      213: 7760861069986302110
+    second: obs2_48
+  - first:
+      213: 4005600434241880079
+    second: obs2_49
+  - first:
+      213: -2939194509409891604
+    second: obs2_50
+  - first:
+      213: -5774369678326752442
+    second: obs2_51
+  - first:
+      213: 1776912855388008481
+    second: obs2_52
+  - first:
+      213: -1642650974397794408
+    second: obs2_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: obs2_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 0
+        width: 1220
+        height: 1232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3480032f29919730800000000000000
+      internalID: 4004149971438830654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obs2_1
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1229
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49027432f0f7ed270800000000000000
+      internalID: 8277192868146651284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obs2_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 200
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629a1ee63597c7a80800000000000000
+      internalID: -8467759800113845978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obs2_3
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 194
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa49f6bbbe7d8dd00800000000000000
+      internalID: 997784724924503210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obs2_4
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 132
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c352f624f5b4f0a90800000000000000
+      internalID: -7345569594709433028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obs2_5
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 136
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7cfed8f51c9143c0800000000000000
+      internalID: -4377045744643801990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obs2_6
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 103
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6757618b5e500e0800000000000000
+      internalID: -2304183055516600634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obs2_7
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 114
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb61dea81c0ea8d60800000000000000
+      internalID: 7893368418784319164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obs2_8
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 113
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef7bcade49f64d870800000000000000
+      internalID: 8706706665047373822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obs2_9
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 101
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303d778d5a0e6a400800000000000000
+      internalID: 335202225191637763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obs2_10
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 95
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb9319ee801552a0800000000000000
+      internalID: -6749470260563043407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obs2_11
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 109
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba74a9db8671ab590800000000000000
+      internalID: -7657782477765064789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obs2_12
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 95
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1501745b123decba0800000000000000
+      internalID: -6066679506292764591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obs2_13
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 94
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d122d834c5f7bd0800000000000000
+      internalID: -2630282212160692834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obs2_14
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 95
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf4b558898df69b0800000000000000
+      internalID: -5084607304694018083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obs2_15
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 115
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768b6a033662a35b0800000000000000
+      internalID: -5387951796735526809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obs2_16
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 103
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de61119b9bfd399c0800000000000000
+      internalID: -3921544861742721299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obs2_17
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 93
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b9a437a87aafae60800000000000000
+      internalID: 7975780900274481585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obs2_18
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 77
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d304457361a1da0800000000000000
+      internalID: -5973437528861033181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obs2_19
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 94
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82261e37b237e20c0800000000000000
+      internalID: -4598611539033759192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obs2_20
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 95
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b529f3120e595df0800000000000000
+      internalID: -191018146168494670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obs2_21
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 98
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa388c3d067e43750800000000000000
+      internalID: 6283901783144694698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obs2_22
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 81
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c9e655beedf3770800000000000000
+      internalID: 8592831716378188877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obs2_23
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 81
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e330eb5cd55fe0fa0800000000000000
+      internalID: -5832454684299885762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obs2_24
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 83
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121d9b865ecab82f0800000000000000
+      internalID: -969491193463713503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obs2_25
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 77
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c7c546253589a4b0800000000000000
+      internalID: -5428661412496554043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obs2_26
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 85
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b98f1cf1184a71850800000000000000
+      internalID: 6347723074292545691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obs2_27
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 71
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d14af26f7587050800000000000000
+      internalID: 5798481235112369411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obs2_28
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 53
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66f9b2f04bee1620800000000000000
+      internalID: 2746891486925289070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obs2_29
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 49
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ae196f5215d7cf0800000000000000
+      internalID: -252956780570482034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obs2_30
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 59
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa0f89c136298510800000000000000
+      internalID: 1551813541882694308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obs2_31
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 61
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ab44e0bbe0030c0800000000000000
+      internalID: -4598159022984218110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obs2_32
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 55
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61cbd053c724222a0800000000000000
+      internalID: -6763770589123593194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obs2_33
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 69
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6167a346b2006190800000000000000
+      internalID: -7971368358603431571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obs2_34
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 65
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de31337bf80af7b00800000000000000
+      internalID: 828557395573806061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obs2_35
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 63
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b40b65c93d4e9d9e0800000000000000
+      internalID: -1595992995413970869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obs2_36
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 63
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 281faf7aacd7867b0800000000000000
+      internalID: -5230792657835724414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obs2_37
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 50
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a34be6c590b6f40800000000000000
+      internalID: 5722678044103293494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obs2_38
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 49
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2586c93694be2310800000000000000
+      internalID: 1382240692956726574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obs2_39
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 47
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d9888c3787e9630800000000000000
+      internalID: 3935715563049360712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obs2_40
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 53
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa92c6edd3ae6e20800000000000000
+      internalID: 3345791746637470369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obs2_41
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 38
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d8c4c044290f6f0800000000000000
+      internalID: -652861125006946919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obs2_42
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 44
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b0d8e7439706a1c0800000000000000
+      internalID: -4492895249107464012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obs2_43
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 55
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b1e414393cb8070800000000000000
+      internalID: 8109790591233956637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obs2_44
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 29
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1fb2a6146e2f7a0800000000000000
+      internalID: -6344755756383079971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obs2_45
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 43
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d192f1e8a49a4d0800000000000000
+      internalID: -3122882892336128676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obs2_46
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 45
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e6d3dc02ba709b0800000000000000
+      internalID: -5113930694485250477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obs2_47
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 31
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eae16156ea673170800000000000000
+      internalID: 8158106787445336806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obs2_48
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 23
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9801bb360e14bb60800000000000000
+      internalID: 7760861069986302110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obs2_49
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 33
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0043235f50c69730800000000000000
+      internalID: 4005600434241880079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obs2_50
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea48dc8a22e537d0800000000000000
+      internalID: -2939194509409891604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obs2_51
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 22
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b1c891f515ddfa0800000000000000
+      internalID: -5774369678326752442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obs2_52
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 7
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1203a36d3dcd8a810800000000000000
+      internalID: 1776912855388008481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obs2_53
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 23
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897f11554a12439e0800000000000000
+      internalID: -1642650974397794408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      obs2_0: 4004149971438830654
+      obs2_1: 8277192868146651284
+      obs2_10: -6749470260563043407
+      obs2_11: -7657782477765064789
+      obs2_12: -6066679506292764591
+      obs2_13: -2630282212160692834
+      obs2_14: -5084607304694018083
+      obs2_15: -5387951796735526809
+      obs2_16: -3921544861742721299
+      obs2_17: 7975780900274481585
+      obs2_18: -5973437528861033181
+      obs2_19: -4598611539033759192
+      obs2_2: -8467759800113845978
+      obs2_20: -191018146168494670
+      obs2_21: 6283901783144694698
+      obs2_22: 8592831716378188877
+      obs2_23: -5832454684299885762
+      obs2_24: -969491193463713503
+      obs2_25: -5428661412496554043
+      obs2_26: 6347723074292545691
+      obs2_27: 5798481235112369411
+      obs2_28: 2746891486925289070
+      obs2_29: -252956780570482034
+      obs2_3: 997784724924503210
+      obs2_30: 1551813541882694308
+      obs2_31: -4598159022984218110
+      obs2_32: -6763770589123593194
+      obs2_33: -7971368358603431571
+      obs2_34: 828557395573806061
+      obs2_35: -1595992995413970869
+      obs2_36: -5230792657835724414
+      obs2_37: 5722678044103293494
+      obs2_38: 1382240692956726574
+      obs2_39: 3935715563049360712
+      obs2_4: -7345569594709433028
+      obs2_40: 3345791746637470369
+      obs2_41: -652861125006946919
+      obs2_42: -4492895249107464012
+      obs2_43: 8109790591233956637
+      obs2_44: -6344755756383079971
+      obs2_45: -3122882892336128676
+      obs2_46: -5113930694485250477
+      obs2_47: 8158106787445336806
+      obs2_48: 7760861069986302110
+      obs2_49: 4005600434241880079
+      obs2_5: -4377045744643801990
+      obs2_50: -2939194509409891604
+      obs2_51: -5774369678326752442
+      obs2_52: 1776912855388008481
+      obs2_53: -1642650974397794408
+      obs2_6: -2304183055516600634
+      obs2_7: 7893368418784319164
+      obs2_8: 8706706665047373822
+      obs2_9: 335202225191637763
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
