@@ -1,0 +1,1690 @@
+fileFormatVersion: 2
+guid: d9555bd107aebdc499ff68410bb0ef23
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6067012404102291205
+    second: GameOver Panel_0
+  - first:
+      213: 4176473854049764395
+    second: GameOver Panel_1
+  - first:
+      213: 3726434382465797174
+    second: GameOver Panel_2
+  - first:
+      213: 3692479527720300172
+    second: GameOver Panel_3
+  - first:
+      213: -3445509262198900529
+    second: GameOver Panel_4
+  - first:
+      213: -553141901459369268
+    second: GameOver Panel_5
+  - first:
+      213: 598323995352025585
+    second: GameOver Panel_6
+  - first:
+      213: 6263560310293188250
+    second: GameOver Panel_7
+  - first:
+      213: 4101009898833601577
+    second: GameOver Panel_8
+  - first:
+      213: 12206761256907246
+    second: GameOver Panel_9
+  - first:
+      213: -7166549571257038734
+    second: GameOver Panel_10
+  - first:
+      213: 4463852270510670816
+    second: GameOver Panel_11
+  - first:
+      213: -2036712750641800966
+    second: GameOver Panel_12
+  - first:
+      213: 3317045899640360966
+    second: GameOver Panel_13
+  - first:
+      213: -2177943335691734689
+    second: GameOver Panel_14
+  - first:
+      213: 7880866669956352266
+    second: GameOver Panel_15
+  - first:
+      213: -4306195857565581898
+    second: GameOver Panel_16
+  - first:
+      213: 7881297880717505891
+    second: GameOver Panel_17
+  - first:
+      213: 8382729271746007225
+    second: GameOver Panel_18
+  - first:
+      213: 8151485717490602626
+    second: GameOver Panel_19
+  - first:
+      213: -6731453224894066112
+    second: GameOver Panel_20
+  - first:
+      213: -7750686585138089354
+    second: GameOver Panel_21
+  - first:
+      213: -2053697239804330637
+    second: GameOver Panel_22
+  - first:
+      213: -6817467655348182143
+    second: GameOver Panel_23
+  - first:
+      213: -8932007077035852890
+    second: GameOver Panel_24
+  - first:
+      213: -931802832707977714
+    second: GameOver Panel_25
+  - first:
+      213: 5532245118013857626
+    second: GameOver Panel_26
+  - first:
+      213: -2432917961133049528
+    second: GameOver Panel_27
+  - first:
+      213: 5974758703361858752
+    second: GameOver Panel_28
+  - first:
+      213: -1064684470850708866
+    second: GameOver Panel_29
+  - first:
+      213: 2250456956158112660
+    second: GameOver Panel_30
+  - first:
+      213: 1842328589605286767
+    second: GameOver Panel_31
+  - first:
+      213: -7514231463916540880
+    second: GameOver Panel_32
+  - first:
+      213: 7872361620341247668
+    second: GameOver Panel_33
+  - first:
+      213: 4310412916131952529
+    second: GameOver Panel_34
+  - first:
+      213: -5068137231163636450
+    second: GameOver Panel_35
+  - first:
+      213: -5420636958020046324
+    second: GameOver Panel_36
+  - first:
+      213: -6283762293755456773
+    second: GameOver Panel_37
+  - first:
+      213: 5775863607368093324
+    second: GameOver Panel_38
+  - first:
+      213: -599253530103469174
+    second: GameOver Panel_39
+  - first:
+      213: 2747508481314855019
+    second: GameOver Panel_40
+  - first:
+      213: 1758256933242293526
+    second: GameOver Panel_41
+  - first:
+      213: 3422447318199896801
+    second: GameOver Panel_42
+  - first:
+      213: -1401421151261074467
+    second: GameOver Panel_43
+  - first:
+      213: -1002809394816164033
+    second: GameOver Panel_44
+  - first:
+      213: 2936677264472926620
+    second: GameOver Panel_45
+  - first:
+      213: -8708404203132963575
+    second: GameOver Panel_46
+  - first:
+      213: 4711609658493189279
+    second: GameOver Panel_47
+  - first:
+      213: 8201301101201744646
+    second: GameOver Panel_48
+  - first:
+      213: -4687016717855271308
+    second: GameOver Panel_49
+  - first:
+      213: 8437623474328637875
+    second: GameOver Panel_50
+  - first:
+      213: -3933848828800618703
+    second: GameOver Panel_51
+  - first:
+      213: -114097510058837462
+    second: GameOver Panel_52
+  - first:
+      213: -5573342251220363476
+    second: GameOver Panel_53
+  - first:
+      213: -1758214278865066800
+    second: GameOver Panel_54
+  - first:
+      213: -4116369315576505464
+    second: GameOver Panel_55
+  - first:
+      213: 2043409786605760160
+    second: GameOver Panel_56
+  - first:
+      213: -4070072176067839082
+    second: GameOver Panel_57
+  - first:
+      213: 4217171594408522333
+    second: GameOver Panel_58
+  - first:
+      213: 45136076360101258
+    second: GameOver Panel_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GameOver Panel_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1406
+        width: 121
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf02895ec54adcba0800000000000000
+      internalID: -6067012404102291205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver Panel_1
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1432
+        width: 88
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b24c754a7d0d5f930800000000000000
+      internalID: 4176473854049764395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver Panel_2
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1406
+        width: 95
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c0dadc354f6b330800000000000000
+      internalID: 3726434382465797174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver Panel_3
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1416
+        width: 78
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8eab2e11925e3330800000000000000
+      internalID: 3692479527720300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver Panel_4
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 1468
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc8f054c4971f20d0800000000000000
+      internalID: -3445509262198900529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver Panel_5
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1452
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2512d0f58d258f0800000000000000
+      internalID: -553141901459369268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver Panel_6
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1458
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f9cc83f08cad4800800000000000000
+      internalID: 598323995352025585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver Panel_7
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1398
+        width: 27
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ec24c9ae2ace650800000000000000
+      internalID: 6263560310293188250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver Panel_8
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 1454
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924665066c6b9e830800000000000000
+      internalID: 4101009898833601577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver Panel_9
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1422
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee173941cfd5b2000800000000000000
+      internalID: 12206761256907246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver Panel_10
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1414
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2780ffb822d4b8c90800000000000000
+      internalID: -7166549571257038734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver Panel_11
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1434
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e30c915df9c2fd30800000000000000
+      internalID: 4463852270510670816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver Panel_12
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1416
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af89c745b842cb3e0800000000000000
+      internalID: -2036712750641800966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver Panel_13
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 1436
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 600dab7dba3880e20800000000000000
+      internalID: 3317045899640360966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver Panel_14
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1440
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f513a2f431466c1e0800000000000000
+      internalID: -2177943335691734689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver Panel_15
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1432
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09c6f05b767e5d60800000000000000
+      internalID: 7880866669956352266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver Panel_16
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1408
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd7b88cea15d34c0800000000000000
+      internalID: -4306195857565581898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver Panel_17
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1416
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365b4356aaeff5d60800000000000000
+      internalID: 7881297880717505891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver Panel_18
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1414
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b090baebdf655470800000000000000
+      internalID: 8382729271746007225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver Panel_19
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1398
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28292b65215ef1170800000000000000
+      internalID: 8151485717490602626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver Panel_20
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 31
+        width: 894
+        height: 1346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 042180ce4f21592a0800000000000000
+      internalID: -6731453224894066112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver Panel_21
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 182
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672757f9d97007490800000000000000
+      internalID: -7750686585138089354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver Panel_22
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 182
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d3349cd3dcf73e0800000000000000
+      internalID: -2053697239804330637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver Panel_23
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 117
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183a147b94d7361a0800000000000000
+      internalID: -6817467655348182143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver Panel_24
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 158
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6abb00223e22b0480800000000000000
+      internalID: -8932007077035852890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver Panel_25
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 36
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0efcb3b2429113f0800000000000000
+      internalID: -931802832707977714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver Panel_26
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 169
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5fda9daf9b76cc40800000000000000
+      internalID: 5532245118013857626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver Panel_27
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 166
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8493ff6210a8c3ed0800000000000000
+      internalID: -2432917961133049528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver Panel_28
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 192
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc9e84926b9ae250800000000000000
+      internalID: 5974758703361858752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver Panel_29
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 162
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a911d5d1b7931f0800000000000000
+      internalID: -1064684470850708866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver Panel_30
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 165
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4937c1e9daa3b3f10800000000000000
+      internalID: 2250456956158112660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver Panel_31
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 164
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6338f65714419910800000000000000
+      internalID: 1842328589605286767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver Panel_32
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 148
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ce031bb4618b790800000000000000
+      internalID: -7514231463916540880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver Panel_33
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 166
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4becbd32f2f304d60800000000000000
+      internalID: 7872361620341247668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver Panel_34
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 146
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197fc4da5b9a1db30800000000000000
+      internalID: 4310412916131952529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver Panel_35
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 146
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e154f875a0c5aa9b0800000000000000
+      internalID: -5068137231163636450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver Panel_36
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 200
+        width: 54
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c027cdc086706c4b0800000000000000
+      internalID: -5420636958020046324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver Panel_37
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 93
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf256b39c779bc8a0800000000000000
+      internalID: -6283762293755456773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver Panel_38
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 178
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e084c595df72050800000000000000
+      internalID: 5775863607368093324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver Panel_39
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 119
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ba8cfd6160fa7f0800000000000000
+      internalID: -599253530103469174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver Panel_40
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 175
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b681526286c112620800000000000000
+      internalID: 2747508481314855019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver Panel_41
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 99
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d46c97d55966810800000000000000
+      internalID: 1758256933242293526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver Panel_42
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 146
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea0bc7f3b9fe7f20800000000000000
+      internalID: 3422447318199896801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver Panel_43
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 178
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb5d5253e62d8ce0800000000000000
+      internalID: -1401421151261074467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver Panel_44
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 140
+        width: 74
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3fde842b2e4512f0800000000000000
+      internalID: -1002809394816164033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver Panel_45
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 224
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99efd0b96c21c820800000000000000
+      internalID: 2936677264472926620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver Panel_46
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 176
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905bdbf2488852780800000000000000
+      internalID: -8708404203132963575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver Panel_47
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 79
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c39ce6500036140800000000000000
+      internalID: 4711609658493189279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver Panel_48
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 212
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603662136efd0d170800000000000000
+      internalID: 8201301101201744646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver Panel_49
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 117
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4765be3c02f54feb0800000000000000
+      internalID: -4687016717855271308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver Panel_50
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 97
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b11bdf68d5781570800000000000000
+      internalID: 8437623474328637875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver Panel_51
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 216
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13fa04725592869c0800000000000000
+      internalID: -3933848828800618703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver Panel_52
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 158
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2abf2b4be4aa6ef0800000000000000
+      internalID: -114097510058837462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver Panel_53
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 146
+        width: 105
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27955850c287a2b0800000000000000
+      internalID: -5573342251220363476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver Panel_54
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 176
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d46a35cd619997e0800000000000000
+      internalID: -1758214278865066800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver Panel_55
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 103
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b9ebcbae7bfd6c0800000000000000
+      internalID: -4116369315576505464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver Panel_56
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 178
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae613ddf56ab5c10800000000000000
+      internalID: 2043409786605760160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver Panel_57
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 176
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b76478be23487c0800000000000000
+      internalID: -4070072176067839082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver Panel_58
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 166
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d527699b837668a30800000000000000
+      internalID: 4217171594408522333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver Panel_59
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 152
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8daff5b50b50a000800000000000000
+      internalID: 45136076360101258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GameOver Panel_0: -6067012404102291205
+      GameOver Panel_1: 4176473854049764395
+      GameOver Panel_10: -7166549571257038734
+      GameOver Panel_11: 4463852270510670816
+      GameOver Panel_12: -2036712750641800966
+      GameOver Panel_13: 3317045899640360966
+      GameOver Panel_14: -2177943335691734689
+      GameOver Panel_15: 7880866669956352266
+      GameOver Panel_16: -4306195857565581898
+      GameOver Panel_17: 7881297880717505891
+      GameOver Panel_18: 8382729271746007225
+      GameOver Panel_19: 8151485717490602626
+      GameOver Panel_2: 3726434382465797174
+      GameOver Panel_20: -6731453224894066112
+      GameOver Panel_21: -7750686585138089354
+      GameOver Panel_22: -2053697239804330637
+      GameOver Panel_23: -6817467655348182143
+      GameOver Panel_24: -8932007077035852890
+      GameOver Panel_25: -931802832707977714
+      GameOver Panel_26: 5532245118013857626
+      GameOver Panel_27: -2432917961133049528
+      GameOver Panel_28: 5974758703361858752
+      GameOver Panel_29: -1064684470850708866
+      GameOver Panel_3: 3692479527720300172
+      GameOver Panel_30: 2250456956158112660
+      GameOver Panel_31: 1842328589605286767
+      GameOver Panel_32: -7514231463916540880
+      GameOver Panel_33: 7872361620341247668
+      GameOver Panel_34: 4310412916131952529
+      GameOver Panel_35: -5068137231163636450
+      GameOver Panel_36: -5420636958020046324
+      GameOver Panel_37: -6283762293755456773
+      GameOver Panel_38: 5775863607368093324
+      GameOver Panel_39: -599253530103469174
+      GameOver Panel_4: -3445509262198900529
+      GameOver Panel_40: 2747508481314855019
+      GameOver Panel_41: 1758256933242293526
+      GameOver Panel_42: 3422447318199896801
+      GameOver Panel_43: -1401421151261074467
+      GameOver Panel_44: -1002809394816164033
+      GameOver Panel_45: 2936677264472926620
+      GameOver Panel_46: -8708404203132963575
+      GameOver Panel_47: 4711609658493189279
+      GameOver Panel_48: 8201301101201744646
+      GameOver Panel_49: -4687016717855271308
+      GameOver Panel_5: -553141901459369268
+      GameOver Panel_50: 8437623474328637875
+      GameOver Panel_51: -3933848828800618703
+      GameOver Panel_52: -114097510058837462
+      GameOver Panel_53: -5573342251220363476
+      GameOver Panel_54: -1758214278865066800
+      GameOver Panel_55: -4116369315576505464
+      GameOver Panel_56: 2043409786605760160
+      GameOver Panel_57: -4070072176067839082
+      GameOver Panel_58: 4217171594408522333
+      GameOver Panel_59: 45136076360101258
+      GameOver Panel_6: 598323995352025585
+      GameOver Panel_7: 6263560310293188250
+      GameOver Panel_8: 4101009898833601577
+      GameOver Panel_9: 12206761256907246
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
