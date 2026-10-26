@@ -75,7 +75,11 @@ public class Player : MonoBehaviour
 
     private void Slide()
     {
-        if (Input.GetKeyDown(KeyCode.LeftControl) && isGrounded)
+        bool isSlideDown = Input.GetKeyDown(KeyCode.LeftControl) || Input.GetKeyDown(KeyCode.DownArrow);
+        bool isSlideHeld = Input.GetKey(KeyCode.LeftControl) || Input.GetKey(KeyCode.DownArrow);
+        bool isSlideUp = Input.GetKeyUp(KeyCode.LeftControl) || Input.GetKeyUp(KeyCode.DownArrow);
+
+        if (isSlideDown && isGrounded)
         {
             runCollider.enabled = false;
             slideCollider.enabled = true;
@@ -84,7 +88,7 @@ public class Player : MonoBehaviour
             AudioManager.instance.PlaySlideSFX();
         }
 
-        else if (Input.GetKey(KeyCode.LeftControl) && !isGrounded)
+        else if (isSlideHeld && !isGrounded)
         {
             runCollider.enabled = false;
             slideCollider.enabled = true;
@@ -103,7 +107,7 @@ public class Player : MonoBehaviour
             AudioManager.instance.PlaySlideSFX();
         }
 
-        else if (Input.GetKeyUp(KeyCode.LeftControl))
+        else if (isSlideUp && !isSlideHeld)
         {
             runCollider.enabled = true;
             slideCollider.enabled = false;

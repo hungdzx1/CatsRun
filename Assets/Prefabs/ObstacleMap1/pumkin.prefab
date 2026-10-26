@@ -176,3 +176,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Obstacle
   leftRange: -18
+  isFlying: 0

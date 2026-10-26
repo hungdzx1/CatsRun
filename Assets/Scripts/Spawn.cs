@@ -7,8 +7,8 @@ public class Spawn : MonoBehaviour
     [SerializeField] private Transform groundPoint;
     private float timer = 2f;
     [SerializeField] private float timeSpawn = 2f;
-    [SerializeField] private float timeSpawnBySpeed = 0.0015f;
-    [SerializeField] private float minTimeSpawn = 0.75f;
+    [SerializeField] private float timeSpawnBySpeed = 0.0025f;
+    [SerializeField] private float minTimeSpawn = 0.95f;
     
 
 

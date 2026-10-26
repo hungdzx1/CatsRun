@@ -8,7 +8,6 @@ public class GameManager : MonoBehaviour
     public static GameManager instance;
     private float gameSpeed = 5f;
     private float maxGameSpeed = 20f;
-
     [SerializeField] private float speedUp = 0.15f;
 
     [SerializeField] private TextMeshProUGUI scoreText;
@@ -22,6 +21,7 @@ public class GameManager : MonoBehaviour
     public bool isGameOver = false;
     public bool IsGameStarted;
     public bool isStopSfxRun;
+    public bool isPaused = false;
     private Animator playerAnimator;
 
     
@@ -44,11 +44,48 @@ public class GameManager : MonoBehaviour
     void Update()
     {
         EnterStartGame();
+        HandlePauseInput();
+        CheckGameOverRetry();
         best_Score();
         if (IsGameStarted && !isGameOver)
         {
              UpdateScore();
              UpdateGameSpeed();
+        }
+    }
+
+    private void HandlePauseInput()
+    {
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            if (!IsGameStarted || isGameOver) return;
+
+            if (Text != null && Text.Length > 6 && Text[6] != null && Text[6].activeSelf)
+            {
+                CloseSettingsMenu();
+                return;
+            }
+
+            if (isPaused)
+            {
+                ResumeGame();
+            }
+            else
+            {
+                PauseGame();
+            }
+        }
+    }
+
+    private void CheckGameOverRetry()
+    {
+        if (isGameOver)
+        {
+            bool isPanelActive = Text != null && Text.Length > 2 && Text[2] != null && Text[2].activeSelf;
+            if (isPanelActive && (Input.GetKeyDown(KeyCode.Return) || Input.GetKeyDown(KeyCode.KeypadEnter)))
+            {
+                RestartGame();
+            }
         }
     }
 
@@ -72,12 +109,13 @@ public class GameManager : MonoBehaviour
 
     private void StartGame()
     {
+        isPaused = false;
         IsGameStarted = false;
         Time.timeScale = 0;
         Text[0].SetActive(true); //score
         Text[1].SetActive(true); //press enter to start
         Text[2].SetActive(false); //game over
-        Text[3].SetActive(true); //pause button
+        Text[3].SetActive(false); //pause button (ẩn khi chưa ấn Enter)
         Text[4].SetActive(false); //pause menu
         Text[5].SetActive(true); //best score
         Text[6].SetActive(false); //settings menu
@@ -85,7 +123,7 @@ public class GameManager : MonoBehaviour
 
     private void EnterStartGame()
     {
-        if(Input.GetKeyDown(KeyCode.Return) && !isGameOver)
+        if(!IsGameStarted && (Input.GetKeyDown(KeyCode.Return) || Input.GetKeyDown(KeyCode.KeypadEnter)) && !isGameOver)
         {
             Time.timeScale = 1;
             IsGameStarted = true;
@@ -108,6 +146,7 @@ public class GameManager : MonoBehaviour
 
     private IEnumerator GameOverRoutine()
     {
+        isPaused = false;
         gameSpeed = 0;
 
         if (playerAnimator == null && Player.instance != null)
@@ -139,6 +178,10 @@ public class GameManager : MonoBehaviour
     //Pause
     public void PauseGame()
     {
+    
+        if (!IsGameStarted || isGameOver) return;
+
+        isPaused = true;
         Time.timeScale = 0;
         Text[0].SetActive(false);
         Text[1].SetActive(false);
@@ -154,6 +197,9 @@ public class GameManager : MonoBehaviour
 
     public void ResumeGame()
     {
+        if (!IsGameStarted || isGameOver) return;
+
+        isPaused = false;
         Time.timeScale = 1;
         Text[0].SetActive(true);
         Text[1].SetActive(false);
@@ -168,6 +214,7 @@ public class GameManager : MonoBehaviour
 
     public void RestartGame()
     {
+        isPaused = false;
         Time.timeScale = 1;
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
         AudioManager.instance.PlayBGM();
@@ -175,6 +222,7 @@ public class GameManager : MonoBehaviour
 
     public void BackToMenu()
     {
+        isPaused = false;
         Time.timeScale = 1;
         SceneManager.LoadScene("Main Menu");
     }
