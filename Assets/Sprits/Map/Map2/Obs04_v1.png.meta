@@ -1,0 +1,712 @@
+fileFormatVersion: 2
+guid: bce4377f211cf8b4d830ce192573c27a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8046467145007456228
+    second: Obstacle_map2 (2)_0
+  - first:
+      213: -6325273947540116556
+    second: Obstacle_map2 (2)_1
+  - first:
+      213: 503566674976795505
+    second: Obstacle_map2 (2)_2
+  - first:
+      213: 210179013795332019
+    second: Obstacle_map2 (2)_3
+  - first:
+      213: -8298472594141268469
+    second: Obstacle_map2 (2)_4
+  - first:
+      213: 3512562952469257245
+    second: Obstacle_map2 (2)_5
+  - first:
+      213: 305285410421151787
+    second: Obstacle_map2 (2)_6
+  - first:
+      213: 89998272898977635
+    second: Obstacle_map2 (2)_7
+  - first:
+      213: -3410156095772346499
+    second: Obstacle_map2 (2)_8
+  - first:
+      213: -1544118308650570660
+    second: Obstacle_map2 (2)_9
+  - first:
+      213: -1060002206482586610
+    second: Obstacle_map2 (2)_10
+  - first:
+      213: -5430168899632146891
+    second: Obstacle_map2 (2)_11
+  - first:
+      213: -3114553063514491930
+    second: Obstacle_map2 (2)_12
+  - first:
+      213: 4682376552187571308
+    second: Obstacle_map2 (2)_13
+  - first:
+      213: -2013761120526169752
+    second: Obstacle_map2 (2)_14
+  - first:
+      213: -7140425821704083031
+    second: Obstacle_map2 (2)_15
+  - first:
+      213: -2869406269288127742
+    second: Obstacle_map2 (2)_16
+  - first:
+      213: -186310884705488451
+    second: Obstacle_map2 (2)_17
+  - first:
+      213: -1263564684863216562
+    second: Obstacle_map2 (2)_18
+  - first:
+      213: 2916032667436366985
+    second: Obstacle_map2 (2)_19
+  - first:
+      213: -2022575733022938981
+    second: Obstacle_map2 (2)_20
+  - first:
+      213: -3835317077619003058
+    second: Obstacle_map2 (2)_21
+  - first:
+      213: -8393761220547183573
+    second: Obstacle_map2 (2)_22
+  - first:
+      213: 2193924060840740334
+    second: Obstacle_map2 (2)_23
+  - first:
+      213: 1461976329243027816
+    second: Obstacle_map2 (2)_24
+  - first:
+      213: 908106313114165702
+    second: Obstacle_map2 (2)_25
+  - first:
+      213: 2479234847919239467
+    second: Obstacle_map2 (2)_26
+  - first:
+      213: -2514503800139085132
+    second: Obstacle_map2 (2)_27
+  - first:
+      213: -9203087098514990604
+    second: Obstacle_map2 (2)_28
+  - first:
+      213: 1697519616185361146
+    second: Obstacle_map2 (2)_29
+  - first:
+      213: -6990936661384249271
+    second: Obstacle_map2 (2)_30
+  - first:
+      213: 3597137448350272293
+    second: Obstacle_map2 (2)_31
+  - first:
+      213: -3650218674885432369
+    second: Obstacle_map2 (2)_32
+  - first:
+      213: -3148357624451655703
+    second: Obstacle_map2 (2)_33
+  - first:
+      213: 7131563715561133637
+    second: Obstacle_map2 (2)_34
+  - first:
+      213: -6283284572033510411
+    second: Obstacle_map2 (2)_35
+  - first:
+      213: 3507659137287129676
+    second: Obstacle_map2 (2)_36
+  - first:
+      213: -3482256171148863966
+    second: Obstacle_map2 (2)_37
+  - first:
+      213: 4703809210563937147
+    second: Obstacle_map2 (2)_38
+  - first:
+      213: -5630452279841653674
+    second: Obstacle_map2 (2)_39
+  - first:
+      213: -177637503868810782
+    second: Obstacle_map2 (2)_40
+  - first:
+      213: 4759548580900294987
+    second: Obstacle_map2 (2)_41
+  - first:
+      213: 4251653218260859376
+    second: Obstacle_map2 (2)_42
+  - first:
+      213: -7608088909066400383
+    second: Obstacle_map2 (2)_43
+  - first:
+      213: -5352842780486303489
+    second: Obstacle_map2 (2)_44
+  - first:
+      213: 3489135521188350930
+    second: Obstacle_map2 (2)_45
+  - first:
+      213: -312303459873116362
+    second: Obstacle_map2 (2)_46
+  - first:
+      213: -3953107830289337237
+    second: Obstacle_map2 (2)_47
+  - first:
+      213: -1164545660162599967
+    second: Obstacle_map2 (2)_48
+  - first:
+      213: -3215215713151485453
+    second: Obstacle_map2 (2)_49
+  - first:
+      213: -8964064258427781950
+    second: Obstacle_map2 (2)_50
+  - first:
+      213: 244555742533471551
+    second: Obstacle_map2 (2)_51
+  - first:
+      213: -2970617909042973619
+    second: Obstacle_map2 (2)_52
+  - first:
+      213: 525981369036576079
+    second: Obstacle_map2 (2)_53
+  - first:
+      213: -1908751400645004815
+    second: Obstacle_map2 (2)_54
+  - first:
+      213: -160111059500384301
+    second: Obstacle_map2 (2)_55
+  - first:
+      213: -7905953568289192784
+    second: Obstacle_map2 (2)_56
+  - first:
+      213: 7901829638937859874
+    second: Obstacle_map2 (2)_57
+  - first:
+      213: 8877173603548458356
+    second: Obstacle_map2 (2)_58
+  - first:
+      213: -1523865281181988131
+    second: Obstacle_map2 (2)_59
+  - first:
+      213: 5882861425613683480
+    second: Obstacle_map2 (2)_60
+  - first:
+      213: 4996276842963905346
+    second: Obstacle_map2 (2)_61
+  - first:
+      213: -8148863022492340156
+    second: Obstacle_map2 (2)_62
+  - first:
+      213: -8620994907091769916
+    second: Obstacle_map2 (2)_63
+  - first:
+      213: 2020032293217227985
+    second: Obstacle_map2 (2)_64
+  - first:
+      213: -6667010527035129950
+    second: Obstacle_map2 (2)_65
+  - first:
+      213: 8507157422001476648
+    second: Obstacle_map2 (2)_66
+  - first:
+      213: 5443733487165943751
+    second: Obstacle_map2 (2)_67
+  - first:
+      213: -6159649907124576292
+    second: Obstacle_map2 (2)_68
+  - first:
+      213: -3097150669132573642
+    second: Obstacle_map2 (2)_69
+  - first:
+      213: 5714189973347873800
+    second: Obstacle_map2 (2)_70
+  - first:
+      213: -1296836720508801367
+    second: Obstacle_map2 (2)_71
+  - first:
+      213: 9042754777531305713
+    second: Obstacle_map2 (2)_72
+  - first:
+      213: 6422130300575582777
+    second: Obstacle_map2 (2)_73
+  - first:
+      213: -6904982653891756838
+    second: Obstacle_map2 (2)_74
+  - first:
+      213: -2402530552144362098
+    second: Obstacle_map2 (2)_75
+  - first:
+      213: -5005755279407803286
+    second: Obstacle_map2 (2)_76
+  - first:
+      213: 5466985141179108561
+    second: Obstacle_map2 (2)_77
+  - first:
+      213: -8999393197395038017
+    second: Obstacle_map2 (2)_78
+  - first:
+      213: 9039471032524546277
+    second: Obstacle_map2 (2)_79
+  - first:
+      213: -3157575742894076087
+    second: Obstacle_map2 (2)_80
+  - first:
+      213: -4043490794246105232
+    second: Obstacle_map2 (2)_81
+  - first:
+      213: 161373147259606256
+    second: Obstacle_map2 (2)_82
+  - first:
+      213: 7862444395871295558
+    second: Obstacle_map2 (2)_83
+  - first:
+      213: 8530754564861753424
+    second: Obstacle_map2 (2)_84
+  - first:
+      213: 1030312292498712013
+    second: Obstacle_map2 (2)_85
+  - first:
+      213: 7389640292399267890
+    second: Obstacle_map2 (2)_86
+  - first:
+      213: -7654969340875651029
+    second: Obstacle_map2 (2)_87
+  - first:
+      213: -8315693235621428137
+    second: Obstacle_map2 (2)_88
+  - first:
+      213: 8884156487454145295
+    second: Obstacle_map2 (2)_89
+  - first:
+      213: 6703693317527340236
+    second: Obstacle_map2 (2)_90
+  - first:
+      213: -5422452608314252965
+    second: Obstacle_map2 (2)_91
+  - first:
+      213: 4088208894984931996
+    second: Obstacle_map2 (2)_92
+  - first:
+      213: 7512244817944363052
+    second: Obstacle_map2 (2)_93
+  - first:
+      213: -487182903502403789
+    second: Obstacle_map2 (2)_94
+  - first:
+      213: -1773474693046252377
+    second: Obstacle_map2 (2)_95
+  - first:
+      213: 8498451253945165697
+    second: Obstacle_map2 (2)_96
+  - first:
+      213: -7377602538140589314
+    second: Obstacle_map2 (2)_97
+  - first:
+      213: 4279982801682018145
+    second: Obstacle_map2 (2)_98
+  - first:
+      213: -6514138344805130753
+    second: Obstacle_map2 (2)_99
+  - first:
+      213: 8226776597915382171
+    second: Obstacle_map2 (2)_100
+  - first:
+      213: -3598754145097193163
+    second: Obstacle_map2 (2)_101
+  - first:
+      213: 3965819018287614607
+    second: Obstacle_map2 (2)_102
+  - first:
+      213: 1749786375952347809
+    second: Obstacle_map2 (2)_103
+  - first:
+      213: 1064510257463400735
+    second: Obstacle_map2 (2)_104
+  - first:
+      213: -2857898734876599337
+    second: Obstacle_map2 (2)_105
+  - first:
+      213: -228300136158151849
+    second: Obstacle_map2 (2)_106
+  - first:
+      213: -2673121719986233972
+    second: Obstacle_map2 (2)_107
+  - first:
+      213: 1183783169429238492
+    second: Obstacle_map2 (2)_108
+  - first:
+      213: 8517825483077062440
+    second: Obstacle_map2 (2)_109
+  - first:
+      213: -3957704133850487396
+    second: Obstacle_map2 (2)_110
+  - first:
+      213: -2040426006784358600
+    second: Obstacle_map2 (2)_111
+  - first:
+      213: -451967956637493992
+    second: Obstacle_map2 (2)_112
+  - first:
+      213: -6362665787245985214
+    second: Obstacle_map2 (2)_113
+  - first:
+      213: -7022285655821918231
+    second: Obstacle_map2 (2)_114
+  - first:
+      213: 3281256761216061322
+    second: Obstacle_map2 (2)_115
+  - first:
+      213: -9221569218797478031
+    second: Obstacle_map2 (2)_116
+  - first:
+      213: 4193279214505864945
+    second: Obstacle_map2 (2)_117
+  - first:
+      213: -1906474363356605798
+    second: Obstacle_map2 (2)_118
+  - first:
+      213: 8187987761751652648
+    second: Obstacle_map2 (2)_119
+  - first:
+      213: -4902779380508153198
+    second: Obstacle_map2 (2)_120
+  - first:
+      213: -4713936893476159380
+    second: Obstacle_map2 (2)_121
+  - first:
+      213: -5878977036245155801
+    second: Obstacle_map2 (2)_122
+  - first:
+      213: 3716522055556495238
+    second: Obstacle_map2 (2)_123
+  - first:
+      213: 3657160430213393266
+    second: Obstacle_map2 (2)_124
+  - first:
+      213: 2846513883732014713
+    second: Obstacle_map2 (2)_125
+  - first:
+      213: 1775410444794288602
+    second: Obstacle_map2 (2)_126
+  - first:
+      213: -5083280327646816682
+    second: Obstacle_map2 (2)_127
+  - first:
+      213: 1581153059717052367
+    second: Obstacle_map2 (2)_128
+  - first:
+      213: 1036599994314891570
+    second: Obstacle_map2 (2)_129
+  - first:
+      213: 8300210819135113605
+    second: Obstacle_map2 (2)_130
+  - first:
+      213: 5889272094346270951
+    second: Obstacle_map2 (2)_131
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Obstacle_map2 (2)_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 444
+        width: 441
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef55038c3bcaaf60800000000000000
+      internalID: 8046467145007456228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle_map2 (2)_1
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 444
+        width: 441
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bba6d18bdc1838a0800000000000000
+      internalID: -6325273947540116556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle_map2 (2)_2
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 444
+        width: 441
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b67be09370df600800000000000000
+      internalID: 503566674976795505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle_map2 (2)_3
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 444
+        width: 441
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf338013b4bae200800000000000000
+      internalID: 210179013795332019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle_map2 (2)_4
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1
+        width: 441
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0635ef8427e5dc80800000000000000
+      internalID: -8298472594141268469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle_map2 (2)_5
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1
+        width: 441
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c902915612fb030800000000000000
+      internalID: 3512562952469257245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle_map2 (2)_6
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 1
+        width: 441
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28134b96779c3400800000000000000
+      internalID: 305285410421151787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle_map2 (2)_7
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 1
+        width: 441
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36fca8ec3fcbf3100800000000000000
+      internalID: 89998272898977635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6548e0e2fae41dd49a0dc52bc8769a90
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":2.0},"gridSpriteSize":{"x":441.0,"y":443.0},"gridSpriteOffset":{"x":10.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Obstacle_map2 (2)_0: 8046467145007456228
+      Obstacle_map2 (2)_1: -6325273947540116556
+      Obstacle_map2 (2)_2: 503566674976795505
+      Obstacle_map2 (2)_3: 210179013795332019
+      Obstacle_map2 (2)_4: -8298472594141268469
+      Obstacle_map2 (2)_5: 3512562952469257245
+      Obstacle_map2 (2)_6: 305285410421151787
+      Obstacle_map2 (2)_7: 89998272898977635
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

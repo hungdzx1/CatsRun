@@ -17,6 +17,29 @@ public class GameManager : MonoBehaviour
     [SerializeField] private TextMeshProUGUI bestScoreTextGameOver;
     private int bestScore = 0;  
 
+    // Map hiện tại của scene này (1, 2, 3) - đặt trong Inspector của GameManager ở từng scene
+    [SerializeField] private int mapNumber = 1;
+
+    // Key PlayerPrefs lưu điểm cao nhất của từng map
+    public const string HighScoreKeyMap1 = "HighScore"; // giữ key cũ để không mất điểm Map 1
+    public const string HighScoreKeyMap2 = "HighScore_Map2";
+    public const string HighScoreKeyMap3 = "HighScore_Map3";
+
+    public static string GetHighScoreKey(int map)
+    {
+        switch (map)
+        {
+            case 2: return HighScoreKeyMap2;
+            case 3: return HighScoreKeyMap3;
+            default: return HighScoreKeyMap1;
+        }
+    }
+
+    public static int GetHighScore(int map)
+    {
+        return PlayerPrefs.GetInt(GetHighScoreKey(map), 0);
+    }
+
     [SerializeField] private GameObject[] Text;
     public bool isGameOver = false;
     public bool IsGameStarted;
@@ -28,6 +51,15 @@ public class GameManager : MonoBehaviour
     void Awake()
     {
         if(instance == null) instance = this;
+        AutoDetectMapNumber();
+    }
+
+    private void AutoDetectMapNumber()
+    {
+        string sceneName = SceneManager.GetActiveScene().name;
+        if (sceneName.Contains("2")) mapNumber = 2;
+        else if (sceneName.Contains("3")) mapNumber = 3;
+        else if (sceneName.Contains("1")) mapNumber = 1;
     }
 
     public float GetGameSpeed()
@@ -242,7 +274,7 @@ public class GameManager : MonoBehaviour
         if(score > bestScore)
         {
             bestScore = Mathf.FloorToInt(score);
-            PlayerPrefs.SetInt("HighScore", bestScore);
+            PlayerPrefs.SetInt(GetHighScoreKey(mapNumber), bestScore);
             PlayerPrefs.Save();
             bestScoreText.text = bestScore.ToString();
         }
@@ -250,7 +282,7 @@ public class GameManager : MonoBehaviour
 
     private void getBestScore()
     {
-        bestScore = PlayerPrefs.GetInt("HighScore", 0);
+        bestScore = GetHighScore(mapNumber);
         if (bestScoreText != null)
         {
             bestScoreText.text = bestScore.ToString();
