@@ -132,7 +132,6 @@ public class Player : MonoBehaviour
 
     private void RunningSFX()
     {
-        // Nhân vật phải chạm đất, game đang chạy, không chết và KHÔNG trong trạng thái trượt/lướt
         bool isRunning = isGrounded && !isFastFalling 
         && GameManager.instance.IsGameStarted && !GameManager.instance.isGameOver 
         && !isSliding && !GameManager.instance.isStopSfxRun;

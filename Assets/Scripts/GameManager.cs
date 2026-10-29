@@ -17,11 +17,9 @@ public class GameManager : MonoBehaviour
     [SerializeField] private TextMeshProUGUI bestScoreTextGameOver;
     private int bestScore = 0;  
 
-    // Map hiện tại của scene này (1, 2, 3) - đặt trong Inspector của GameManager ở từng scene
     [SerializeField] private int mapNumber = 1;
 
-    // Key PlayerPrefs lưu điểm cao nhất của từng map
-    public const string HighScoreKeyMap1 = "HighScore"; // giữ key cũ để không mất điểm Map 1
+    public const string HighScoreKeyMap1 = "HighScore"; 
     public const string HighScoreKeyMap2 = "HighScore_Map2";
     public const string HighScoreKeyMap3 = "HighScore_Map3";
 
@@ -289,5 +287,21 @@ public class GameManager : MonoBehaviour
         }
     }
 
-    
+    public static void ResetAllHighScores()
+    {
+        PlayerPrefs.DeleteKey(HighScoreKeyMap1);
+        PlayerPrefs.DeleteKey(HighScoreKeyMap2);
+        PlayerPrefs.DeleteKey(HighScoreKeyMap3);
+        PlayerPrefs.Save();
+
+        if (instance != null)
+        {
+            instance.bestScore = 0;
+            if (instance.bestScoreText != null)
+            {
+                instance.bestScoreText.text = "0";
+            }
+        }
+    }
 }
+
